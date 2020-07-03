@@ -1,4 +1,4 @@
-### Kris Jackson's Profile
+### Kris Jackson's 
 
 Hi! Welcome to my personal GitHub profile! 
 
