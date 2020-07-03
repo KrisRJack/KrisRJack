@@ -8,8 +8,8 @@ Phone: +1 (225) 610 5747<br/>
 Email: kristopherrjackson@gmail.com<br/>
 Website: <https://www.kristopherjackson.com><br/>
 Resume: <https://www.kristopherjackson.com/resume><br/>
-LinkedIn: <https://www.linkedin.com/in/kristopher-jackson-38a995162/><br/>
 Portfolio: <https://www.instagram.com/krisjackson.portfolio/><br/>
+LinkedIn: <https://www.linkedin.com/in/kristopher-jackson-38a995162/><br/>
 
 <!--
 **KrisJackson/KrisJackson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
