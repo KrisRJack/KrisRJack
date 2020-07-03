@@ -1,4 +1,6 @@
-### Hi there 👋
+### Kris Jackson's Profile
+
+Hi! Welcome to my personal GitHub profile! 
 
 <!--
 **KrisJackson/KrisJackson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
