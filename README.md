@@ -7,7 +7,7 @@ My name is Kris Jackson. I'm a Computer Science major at Rhodes College seeking 
 Phone: +1 (225) 610 5747<br/>
 Email: kristopherrjackson@gmail.com<br/>
 Website: <https://www.kristopherjackson.com><br/>
-Resume: <https://www.kristopherjackson.com/resume><br/>
+Resume: <https://www.kristopherjackson.com/resume/><br/>
 Portfolio: <https://www.instagram.com/krisjackson.portfolio/><br/>
 LinkedIn: <https://www.linkedin.com/in/KristopherRJackson/><br/>
 
