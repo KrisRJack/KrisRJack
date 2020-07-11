@@ -2,8 +2,7 @@
 
 Hi! Welcome to my personal GitHub profile! 
 
-My name is Kris Jackson. I'm a Computer Science major at Rhodes College seeking a full-time position in iOS Development or Software Engineering starting in the Fall of 2021. I have more than three years of professional programming experience, two years working with an outstanding team as co-founder of Netswitch LLC, and I have spent the last two summers working at Dell Technologies as a Machine Learning Intern. I am a leader, and I intend build more leaders throughout my lifelong journey in the tech industry.
-
+My name is Kris Jackson. I'm a Computer Science major at Rhodes College seeking a full-time position in iOS Development or Software Engineering starting in the Fall of 2021. I have more than three years of professional programming experience, two years working with an outstanding team as co-founder of Netswitch LLC, and I have spent the last two summers interning at Dell Technologies working with Machine Learning models. I strive to be a leader, and my mission throughout my journey in the tech industry is to inspire others to lead.
 Phone: +1 (225) 610 5747<br/>
 Email: kristopherrjackson@gmail.com<br/>
 Website: <https://www.kristopherjackson.com><br/>
