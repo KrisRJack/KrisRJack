@@ -1,8 +1,6 @@
 # Kris Jackson
 
-Hi! Welcome to my personal GitHub profile! 
-
-My name is Kris Jackson. Highly motivated and deeply passionate Computer Science major with a strong desire to build software that changes the world. As a Senior at Rhodes College, I am seeking a full-time position in Software Engineering starting in June of 2021. As an experienced programmer, I am interested in working for an organization that prioritizes personal growth, encourages creativity, allows the flexibility to take risks, and currently building the tools that define our world. I believe that leadership is not defined by followers, but by the ability to inspire and create more leaders. My long-term mission is to be a leader in the tech industry in hopes to one day take on tech’s biggest problems.<br/><br/>
+Hi! My name is Kris Jackson. I am a highly motivated and deeply passionate Computer Science major with a strong desire to build software that changes the world. As a Senior at Rhodes College, I am seeking a full-time position in Software Engineering starting in June of 2021. As an experienced programmer, I am interested in working for an organization that prioritizes personal growth, encourages creativity, allows the flexibility to take risks, and currently building the tools that define our world. I believe that leadership is not defined by followers, but by the ability to inspire and create more leaders. My long-term mission is to be a leader in the tech industry in hopes to one day take on tech’s biggest problems.<br/><br/>
 Phone: +1 (225) 610 5747<br/>
 Email: kristopherrjackson@gmail.com<br/>
 Website: <https://www.kristopherjackson.com><br/>
