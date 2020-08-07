@@ -1,6 +1,18 @@
 # Kris Jackson
 
-Hi! My name is Kris Jackson. I am a highly motivated and deeply passionate Computer Science major with a strong desire to build software that changes the world. As a Senior at Rhodes College, I am seeking a full-time position in Software Engineering starting in June of 2021. As an experienced programmer, I am interested in working for an organization that prioritizes personal growth, encourages creativity, allows the flexibility to take risks, and currently building the tools that define our world. I believe that leadership is not defined by followers, but by the ability to inspire and create more leaders. My long-term mission is to be a leader in the tech industry in hopes to one day take on tech’s biggest problems.<br/><br/>
+Computer Science major at Rhodes College graduating in May of 2021. Actively seeking a FULL-TIME position in Software Engineering starting June 2021. 
+
+Top Skills:
+
+*** Machine Learning (Python) - Deployed and developed Catboost Regressor and Classifier Machine Learning frameworks for two consecutive internships at Dell Technologies. Developed frameworks that fully automate model tuning by combining Hyperopt and MLFlow. 
+
+*** Native Mobile Development (Swift, Kotlin) - Developed native iOS applications for multiple start-ups and currently developing native applications for independent side projects. Worked with ReactiveX APIs and VIPER design patterns.
+
+*** Software Engineering (C++, C, Java) - Studied the fundamentals of workflow management systems and independently furthered my knowledge by reading ‘Software Engineering at Google’.
+
+*** Dynamic Web Development (HTML, CSS, JavaScript, PHP) - Hobbyist that independently develops dynamic bootstrap websites.
+
+As an experienced programmer, I am interested in working for an organization or company that prioritizes personal growth, encourages creativity, allows the flexibility to take risks, and currently building the tools that define our world.<br/><br/>
 Phone: +1 (225) 610 5747<br/>
 Email: kristopherrjackson@gmail.com<br/>
 Website: <https://www.kristopherjackson.com><br/>
