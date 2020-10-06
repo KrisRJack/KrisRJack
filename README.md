@@ -1,18 +1,13 @@
 # Kris Jackson
 
-Computer Science major at Rhodes College graduating in May of 2021. Actively seeking a FULL-TIME position in Software Engineering starting June 2021. 
+I code with passion and lead with purpose. My mission is to deliver robust software that makes an impact and to inspire teams to change the world. I'm willing to tear down, restructure, and rebuild to transform something into a masterpiece that benefits the lives of others. Let's Connect!
 
-Top Skills:
+*** Top Languages: Swift, C, C++, Python, Rust, HTML
 
-*** Machine Learning (Python) - Deployed and developed Catboost Regressor and Classifier Machine Learning frameworks for two consecutive internships at Dell Technologies. Developed frameworks that fully automate model tuning by combining Hyperopt and MLFlow. 
+*** Work Experience: Machine Learning, iOS Development
 
-*** Native Mobile Development (Swift, Kotlin) - Developed native iOS applications for multiple start-ups and currently developing native applications for independent side projects. Worked with ReactiveX APIs and VIPER design patterns.
+*** Experience With: Interface Builder, SwiftUI, MongoDB, MySQL, Firebase, Heroku, Stripe <br/><br/>
 
-*** Software Engineering (C++, C, Java) - Studied the fundamentals of workflow management systems and independently furthered my knowledge by reading ‘Software Engineering at Google’.
-
-*** Dynamic Web Development (HTML, CSS, JavaScript, PHP) - Hobbyist that independently develops dynamic bootstrap websites.
-
-As an experienced programmer, I am interested in working for an organization or company that prioritizes personal growth, encourages creativity, allows the flexibility to take risks, and currently building the tools that define our world.<br/><br/>
 Phone: +1 (225) 610 5747<br/>
 Email: kristopherrjackson@gmail.com<br/>
 Website: <https://www.kristopherjackson.com><br/>
