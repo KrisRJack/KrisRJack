@@ -10,7 +10,6 @@ I code with passion and lead with purpose. My mission is to deliver robust softw
 
 Phone: +1 (225) 610 5747<br/>
 Email: kristopherrjackson@gmail.com<br/>
-Website: <https://www.kristopherjackson.com><br/>
 Portfolio: <https://www.instagram.com/krisjackson.portfolio/><br/>
 LinkedIn: <https://www.linkedin.com/in/KristopherRJackson/><br/>
 
