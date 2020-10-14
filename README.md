@@ -1,6 +1,6 @@
 # Kris Jackson
 
-I code with passion and lead with purpose. My mission is to deliver robust software that makes an impact and to inspire teams to change the world. I'm willing to tear down, restructure, and rebuild to transform something into a masterpiece that benefits the lives of others. 
+Passionate coder and motivated mobile developer with a strong desire to work on projects that change the world.
 
 *** Top Languages: Swift, C, C++, Python, Rust, HTML
 
