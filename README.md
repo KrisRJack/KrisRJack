@@ -32,20 +32,37 @@
   
   <ul>
   Outside of programming, I love:
-  <li> 🚴‍ Pelotoning 🚴‍ - I have yet to try the treadmill, but I really enjoy the bike.</li>
-  <li> ☕️ Trying different coffees ☕️ - If you like coffee, I recommend joining Atlas Coffee Club.</li>
-  <li> 📚 Reading 📚 - My favorite books are <i>Steve Jobs</i> by Walter Issacson, <i>The Ride of a Lifetime</i> by Bob Iger, and <i>Between the World and Me</i> by Ta-Nehisi Coates.</li>
-  <li> 🎙 Listening to Podcasts 🎙 - My favorite podcasts are <i>Pivot</i> by New York Magazine, <i>The Vergecast</i> by the Verge, and <i>Decoder with Nilay Patel</i> by the Verge.</li>
-  <li> 🎧 Listening to Classic Hip-Hop 🎧 - I absolutley love hip-hop. My favorite artists are Jay-Z, Eminem, Kanye West, Notorious B.I.G, and Lauryn Hill.</li>
+  <li> 🚴‍ Pelotoning 🚴‍ - I have yet to try the treadmill, but I really enjoy the bike. </li>
+  <li> ☕️ Trying different coffees ☕️ - If you like coffee, I recommend joining Atlas Coffee Club. </li>
+  <li> 📚 Reading 📚 - My favorite books are <i>Steve Jobs</i> by Walter Issacson, <i>The Ride of a Lifetime</i> by Bob Iger, and <i>Between the World and Me</i> by Ta-Nehisi Coates. </li>
+  <li> 🎙 Listening to Podcasts 🎙 - My favorite podcasts are <i>Pivot</i> by New York Magazine, <i>The Vergecast</i> by the Verge, and <i>Decoder with Nilay Patel</i> by the Verge. </li>
+  <li> 🎧 Listening to Classic Hip-Hop 🎧 - I absolutley love hip-hop. My favorite artists are Jay-Z, Eminem, Kanye West, Notorious B.I.G, and Lauryn Hill. </li>
 </ul>
 </div>
 
+<h2>Tools and Technologies</h2>
 
-*** Top Languages: Swift, C, C++, Python, Rust, HTML
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-14354C?style=flat-square&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-14354C?style=flat-square&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 
-*** Work Experience: Machine Learning, iOS Development
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-ffca28?style=flat-square&logo=firebase&logoColor=white)
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=heroku&logoColor=white)
+![MySQL](ttps://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white)
 
-*** Experience With: Interface Builder, SwiftUI, MongoDB, MySQL, Firebase, Heroku, Stripe <br/><br/>
+![iOS](https://img.shields.io/badge/iOS-000000?style=flat-square&logo=ios&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
+
+<br/>
 
 Phone: +1 (225) 610 5747<br/>
 Email: kristopherrjackson@gmail.com<br/>
