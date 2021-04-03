@@ -31,7 +31,7 @@
   
   <div>
   
-  Outside of programming, I love:<br><br>
+  Outside of programming, I love:<br>
   <b>• Pelotoning 🚴‍</b> - I have yet to try the treadmill, but I really enjoy the bike. <br>
   <b>• Trying different coffees ☕️</b> - If you like coffee, I recommend joining Atlas Coffee Club. <br>
   <b>• Reading 📚</b> - My favorite books are <i>Steve Jobs</i> by Walter Issacson, <i>The Ride of a Lifetime</i> by Bob Iger, and <i>Between the World and Me</i> by Ta-Nehisi Coates. <br>
