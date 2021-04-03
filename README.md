@@ -32,11 +32,11 @@
   <div>
   
   Outside of programming, I love:<br>
-  <b>🚴‍ Pelotoning 🚴‍</b> - I have yet to try the treadmill, but I really enjoy the bike. <br>
-  <b>☕️ Trying different coffees ☕️</b> - If you like coffee, I recommend joining Atlas Coffee Club. <br>
-  <b>📚 Reading 📚</b> - My favorite books are <i>Steve Jobs</i> by Walter Issacson, <i>The Ride of a Lifetime</i> by Bob Iger, and <i>Between the World and Me</i> by Ta-Nehisi Coates. <br>
-  <b>🎙 Listening to Podcasts 🎙</b> - My favorite podcasts are <i>Pivot</i> by New York Magazine, <i>The Vergecast</i> by the Verge, and <i>Decoder with Nilay Patel</i> by the Verge. <br> 
-  <b>🎧 Listening to Classic Hip-Hop 🎧</b> - I absolutley love hip-hop. My favorite artists are Jay-Z, Eminem, Kanye West, Notorious B.I.G, and Lauryn Hill. <br>
+  <b>Pelotoning 🚴‍</b> - I have yet to try the treadmill, but I really enjoy the bike. <br>
+  <b>Trying different coffees ☕️</b> - If you like coffee, I recommend joining Atlas Coffee Club. <br>
+  <b>Reading 📚</b> - My favorite books are <i>Steve Jobs</i> by Walter Issacson, <i>The Ride of a Lifetime</i> by Bob Iger, and <i>Between the World and Me</i> by Ta-Nehisi Coates. <br>
+  <b>Listening to Podcasts 🎙</b> - My favorite podcasts are <i>Pivot</i> by New York Magazine, <i>The Vergecast</i> by the Verge, and <i>Decoder with Nilay Patel</i> by the Verge. <br> 
+  <b>Listening to Classic Hip-Hop 🎧</b> - I absolutley love hip-hop. My favorite artists are Jay-Z, Eminem, Kanye West, Notorious B.I.G, and Lauryn Hill. <br>
   
 </div>
 
