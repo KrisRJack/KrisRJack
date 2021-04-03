@@ -27,18 +27,7 @@
   
   <p> Hi there! My name is Kris Jackson. I am a Computer Science Major and Senior at Rhodes College, and this summer will be moving to New York City to begin my journey as a Software Development Engineer in Test at Peloton Interactive. I love to code, and I spend most of my free time developing random iOS applications that come to mind. The one thing that I love most about coding is having the ability to think of an idea and actually spending time bring that idea to life. </p> 
   
-  </div>
-  
-  <div>
-  
-  <b>Outside of programming, I enjoy:</b><br>
-  <b>• Pelotoning 🚴‍</b> - I have yet to try the treadmill, but I really enjoy the bike. <br>
-  <b>• Trying different coffees ☕️</b> - If you like coffee, I recommend joining Atlas Coffee Club. <br>
-  <b>• Reading 📚</b> - My favorite books are <i>Steve Jobs</i> by Walter Issacson, <i>The Ride of a Lifetime</i> by Bob Iger, and <i>Between the World and Me</i> by Ta-Nehisi Coates. <br>
-  <b>• Listening to Podcasts 🎙</b> - My favorite podcasts are <i>Pivot</i> by New York Magazine, <i>The Vergecast</i> by the Verge, and <i>Decoder with Nilay Patel</i> by the Verge. <br> 
-  <b>• Listening to Classic Hip-Hop 🎧</b> - I absolutley love hip-hop. My favorite artists are Jay-Z, Eminem, Kanye West, Notorious B.I.G, and Lauryn Hill. <br>
-  
-</div>
+ </div>
 
 <h2>Tools and Technologies</h2>
 
@@ -157,17 +146,64 @@ Developed Software For:
 	</tbody>
 </table>
 
+
+
+
+
+<h2>Outside of Programming, I Enjoy...</h2>
+<table>
+	<thead align="center">
+		<tr border: none;>
+			<td><b>Hobby</b></td>
+			<td><b>Description</b></td>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>🚴‍ Pelotoning 🚴‍</td>
+			<td>
+				I have yet to try the treadmill, but I absolutely love riding the bike 
+			</td>
+		</tr>	
+			<td>☕️ Trying different coffees ☕️</td>
+			<td>
+				If you like coffee, I recommend joining Atlas Coffee Club
+			</td>
+		</tr>
+			<td>📚 Reading 📚</td>
+			<td>
+				My favorite books are:<br>
+				• <i>Steve Jobs</i> by Walter Issacson<br>
+				• <i>The Ride of a Lifetime</i> by Bob Iger<br>
+				• <i>Between the World and Me</i> by Ta-Nehisi Coates<br>
+			</td>
+		</tr>
+			<td>🎙 Listening to Podcasts 🎙</td>
+			<td>
+				My favorite podcasts are:<br>
+				• <i>Pivot</i> by New York Magazine<br>
+				• <i>The Vergecast</i> by the Verge<br>
+				• <i>Decoder with Nilay Patel</i> by the Verge<br>
+				• <i>Sway</i> by New York Times Opinion<br>
+			</td>
+		</tr>
+			<td>🎧 Listening to Classic Hip-Hop 🎧</td>
+			<td>
+				I absolutley love hip-hop. My favorite artists and albums are:<br>
+				• <b>Jay-Z</b>: <i>Reasonable Doubt</i>(1996), <i>The Blueprint</i>(2001), <i>The Black Album</i>(2003) <br>
+				• <b>Kanye West</b>: <i>The College Dropout</i>(2004), <i>Graduation</i>(2007), <i>My Beautiful Dark Twisted Fantasy</i>(2010) <br>
+				• <b>Eminem</b>: <i>The Slim Shady LP</i>(1999), <i>The Marshall Mathers LP</i>(2000), <i>The Eminem Show</i>(2002) <br>
+				• <b>Notorious B.I.G</b>: <i>Ready to Die</i>(1994), <i>Life After Death</i>(1997) <br>
+				• <b>Kendrick Lamar</b>: <i>Section.80</i>(2011), <i>Good Kid, M.A.A.D City</i>(2012), <i>To Pimp a Butterfly</i>(2015) <br>
+				• <b>Lauryn Hill</b>: <i>The Miseducation of Lauryn Hill</i>(1998) 
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+
+
 <!--
-**KrisJackson/KrisJackson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <b>• Listening to Classic Hip-Hop 🎧</b> - I absolutley love hip-hop. My favorite artists are Jay-Z, Eminem, Kanye West, Notorious B.I.G, and Lauryn Hill. <br>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
