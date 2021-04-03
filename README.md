@@ -160,17 +160,17 @@ Developed Software For:
 	</thead>
 	<tbody>
 		<tr>
-			<td>🚴‍ Pelotoning 🚴‍</td>
+			<td>Pelotoning 🚴‍</td>
 			<td>
 				I have yet to try the treadmill, but I absolutely love riding the bike 
 			</td>
 		</tr>	
-			<td>☕️ Trying different coffees ☕️</td>
+			<td>Trying different coffees ☕️</td>
 			<td>
 				If you like coffee, I recommend joining Atlas Coffee Club
 			</td>
 		</tr>
-			<td>📚 Reading 📚</td>
+			<td>Reading 📚</td>
 			<td>
 				My favorite books are:<br>
 				• <i>Steve Jobs</i> by Walter Issacson<br>
@@ -178,7 +178,7 @@ Developed Software For:
 				• <i>Between the World and Me</i> by Ta-Nehisi Coates<br>
 			</td>
 		</tr>
-			<td>🎙 Listening to Podcasts 🎙</td>
+			<td>Listening to Podcasts 🎙</td>
 			<td>
 				My favorite podcasts are:<br>
 				• <i>Pivot</i> by New York Magazine<br>
@@ -187,23 +187,16 @@ Developed Software For:
 				• <i>Sway</i> by New York Times Opinion<br>
 			</td>
 		</tr>
-			<td>🎧 Listening to Classic Hip-Hop 🎧</td>
+			<td>Listening to Classic Hip-Hop 🎧</td>
 			<td>
 				I absolutley love hip-hop. My favorite artists and albums are:<br>
-				• <b>Jay-Z</b>: <i>Reasonable Doubt</i>(1996), <i>The Blueprint</i>(2001), <i>The Black Album</i>(2003) <br>
-				• <b>Kanye West</b>: <i>The College Dropout</i>(2004), <i>Graduation</i>(2007), <i>My Beautiful Dark Twisted Fantasy</i>(2010) <br>
-				• <b>Eminem</b>: <i>The Slim Shady LP</i>(1999), <i>The Marshall Mathers LP</i>(2000), <i>The Eminem Show</i>(2002) <br>
-				• <b>Notorious B.I.G</b>: <i>Ready to Die</i>(1994), <i>Life After Death</i>(1997) <br>
-				• <b>Kendrick Lamar</b>: <i>Section.80</i>(2011), <i>Good Kid, M.A.A.D City</i>(2012), <i>To Pimp a Butterfly</i>(2015) <br>
-				• <b>Lauryn Hill</b>: <i>The Miseducation of Lauryn Hill</i>(1998) 
+				• <b>Jay-Z</b>: <i>Reasonable Doubt</i> (1996), <i>The Blueprint</i> (2001), <i>The Black Album</i> (2003) <br>
+				• <b>Kanye West</b>: <i>The College Dropout</i> (2004), <i>Graduation</i> (2007), <i>My Beautiful Dark Twisted Fantasy</i> (2010) <br>
+				• <b>Eminem</b>: <i>The Slim Shady LP</i> (1999), <i>The Marshall Mathers LP</i> (2000), <i>The Eminem Show</i> (2002) <br>
+				• <b>Notorious B.I.G</b>: <i>Ready to Die</i> (1994), <i>Life After Death</i> (1997) <br>
+				• <b>Kendrick Lamar</b>: <i>Section.80</i> (2011), <i>Good Kid, M.A.A.D City</i> (2012), <i>To Pimp a Butterfly</i> (2015) <br>
+				• <b>Lauryn Hill</b>: <i>The Miseducation of Lauryn Hill</i> (1998) 
 			</td>
 		</tr>
 	</tbody>
 </table>
-
-
-
-<!--
-  <b>• Listening to Classic Hip-Hop 🎧</b> - I absolutley love hip-hop. My favorite artists are Jay-Z, Eminem, Kanye West, Notorious B.I.G, and Lauryn Hill. <br>
-
--->
