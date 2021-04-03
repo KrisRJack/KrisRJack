@@ -150,7 +150,7 @@ Developed Software For:
 
 
 
-<h2>Outside of Programming, I Enjoy...</h2>
+<h2>Outside of Programming, I Enjoy</h2>
 <table>
 	<thead align="center">
 		<tr border: none;>
