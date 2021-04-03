@@ -26,6 +26,10 @@
   
   <p> Hi there! My name is Kris Jackson. I am a Computer Science Major and Senior at Rhodes College, and this summer will be moving to New York City to begin my journey as a Software Development Engineer in Test at Peloton Interactive. I love to code, and I spend most of my free time developing random iOS applications that come to mind. The one thing that I love most about coding is having the ability to think of an idea and actually spending time bring that idea to life. </p> 
   
+  </div>
+  
+  <div>
+  
   <ul>
   Outside of programming, I love:
   <li> 🚴‍ Pelotoning 🚴‍ - I have yet to try the treadmill, but I really enjoy the bike.</li>
