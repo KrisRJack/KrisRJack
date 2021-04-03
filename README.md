@@ -11,6 +11,7 @@
 
 <div align="center">
 
+[![Email Link](https://img.shields.io/badge/kristopherrjackson@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:kristopherrjackson@gmail.com)
 [![LinkedIn Link](https://img.shields.io/badge/linkedin/in/kristopherrjackson%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white")](https://www.linkedin.com/in/kristopherrjackson/)
 [![Instagram Link](https://img.shields.io/badge/instagram.com/krisjackson.portfolio%20-%23E4405F.svg?&style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/krisjackson.portfolio/)
 [![Instagram Link](https://img.shields.io/badge/instagram.com/kristopher.r.jackson%20-%23E4405F.svg?&style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/kristopher.r.jackson/)
@@ -46,7 +47,6 @@
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-14354C?style=flat-square&logo=python&logoColor=white)
-![Python](https://img.shields.io/badge/Python-14354C?style=flat-square&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -62,12 +62,63 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
 
-<br/>
-
-Phone: +1 (225) 610 5747<br/>
-Email: kristopherrjackson@gmail.com<br/>
-Portfolio: <https://www.instagram.com/krisjackson.portfolio/><br/>
-LinkedIn: <https://www.linkedin.com/in/KristopherRJackson/><br/>
+<h2>Experience</h2>
+<table>
+  <thead align="center">
+    <tr border: none;>
+      <td><b>Role</b></td>
+      <td><b>Company</b></td>
+      <td><b>Start Date</b></td>
+      <td><b>End Date</b></td>
+      <td><b>Description</b></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+	    <td><b>Software Development Engineer in Test</b></td>
+      <td>Peloton Interactive</td>
+      <td>July 2021</td>
+      <td>Present</td>
+      <td>TBD</td>
+    </tr>
+    <tr>
+	    <td><b>Co-Founder & Developer</b></td>
+      <td>Netswitch LLC</td>
+      <td>May 2018</td>
+      <td>Present</td>
+      <td>• Led the development, design, and launch of a marketplace app that transformed a simple idea into lifelong lessons <br>
+          • Used VIPER architectural patterns for scalability and worked with top tools such as Stripe, Heroku, MongoDB, and Google Cloud for an amazing experience</td>
+    </tr>
+    <tr>
+	    <td><b>Machine Learning Intern</b></td>
+      <td>Dell Technologies</td>
+      <td>May 2019</td>
+      <td>Aug 2020</td>
+      <td>• Delivered a groundbreaking artificially intelligent framework that empowers a world-class sales team and will drive future sales predictions to new heights <br>
+          • Worked with state-of-the-art tools such as distributed asynchronous hyper-parameter optimization and machine learning lifecycle management APIs
+      </td>
+    </tr>
+    <tr>
+	    <td><b>Open Source Contributor</b></td>
+      <td>Mozilla Firefox</td>
+      <td>Jan 2020</td>
+      <td>May 2020</td>
+      <td>• Contributions merged into production to some of Firefox's most popular and complex codebases <br>
+          • Paired-programmed with Senior Software Engineers and worked with ReactiveX frameworks
+      </td>
+    </tr>
+    <tr>
+	    <td><b>iOS Developer</b></td>
+      <td>Moment AI</td>
+      <td>May 2019</td>
+      <td>Sep 2019</td>
+      <td>• Contracted to develop a mobile app for one of Memphis's most revolutionary artificial intelligence start-ups <br>
+          • Used tools in Google Cloud to sync the mobile app to their innovative facial recognition hardware
+      </td>
+    </tr>
+    
+  </tbody>
+</table>
 
 <!--
 **KrisJackson/KrisJackson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
