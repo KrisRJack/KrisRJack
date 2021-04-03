@@ -122,6 +122,41 @@ Developed Software For:
   </tbody>
 </table>
 
+<h2>Struggles I Learned From</h2>
+<table>
+	<thead align="center">
+		<tr border: none;>
+			<td><b>Company</b></td>
+			<td><b>TL;DR</b></td>
+			<td><b>Description</b></td>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>Netswitch LLC</td>
+			<td>Avoiding Failure Instead of Learning From It</td>
+			<td>
+				• Misled our team into believing that we needed to be invincible and prolonged our first launch as a result <br>
+				• As a result of trying to run from failure, our app lacked experimentation. We failed to understand what our users really wanted from our product
+			</td>
+		</tr>
+		<tr>
+			<td>Netswitch LLC</td>
+			<td>Deploying Code Without Tests</td>
+			<td>
+				• Our team experenced weeks of sleep deprivation and anxiety while attempting to perfect an app with many users and not a single test 
+			</td>
+		</tr>
+		<tr>
+			<td>Netswitch LLC</td>
+			<td>Allowing Emotion Overpower Strategy</td>
+			<td>
+				• We had a great strategy planned for our initial launch, but eagerness and impatience caused us to launch a product that was not ready 
+			</td>
+		</tr>
+	</tbody>
+</table>
+
 <!--
 **KrisJackson/KrisJackson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
