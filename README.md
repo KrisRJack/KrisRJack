@@ -220,7 +220,6 @@ Developed Software For:
 	<img src="https://github.com/KrisJackson/MyProjects/blob/main/Exchange_Photos.jpg" width="250px">&#160;
 </div>
 
-
 <div>
 <h3>Facebook Resume App</h3>
 	<img src="https://github.com/KrisJackson/MyProjects/blob/main/FacebookResumeApp_Opening.png" width="250px">&#160;
@@ -230,4 +229,16 @@ Developed Software For:
 	<img src="https://github.com/KrisJackson/MyProjects/blob/main/FacebookResumeApp_Interests.png" width="250px">&#160;
 	<img src="https://github.com/KrisJackson/MyProjects/blob/main/FacebookResumeApp_Blogs.png" width="250px">&#160;
 	<img src="https://github.com/KrisJackson/MyProjects/blob/main/FacebookResumeApp_Message.png" width="250px">&#160;
+</div>
+
+<div>
+<h3>Social Fitness App</h3>
+	<img src="https://github.com/KrisJackson/MyProjects/blob/main/SocialFitness_LaunchScreen.jpg" width="250px">&#160;
+	<img src="https://github.com/KrisJackson/MyProjects/blob/main/SocialFitness_OpeningPage.jpg" width="250px">&#160;
+	<img src="https://github.com/KrisJackson/MyProjects/blob/main/SocialFitness_LogIn.jpg" width="250px">&#160;
+	<img src="https://github.com/KrisJackson/MyProjects/blob/main/SocialFitness_SignUp_1.jpg" width="250px">&#160;
+	<img src="https://github.com/KrisJackson/MyProjects/blob/main/SocialFitness_SignUp_2.jpg" width="250px">&#160;
+	<img src="https://github.com/KrisJackson/MyProjects/blob/main/SocialFitness_CreateWorkout_1.jpg" width="250px">&#160;
+	<img src="https://github.com/KrisJackson/MyProjects/blob/main/SocialFitness_CreateWorkout_2.jpg" width="250px">&#160;
+	<img src="https://github.com/KrisJackson/MyProjects/blob/main/SocialFitness_CreateWorkout_3.jpg" width="250px">&#160;
 </div>
