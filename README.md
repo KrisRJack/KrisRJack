@@ -27,7 +27,8 @@
   
   <p> Hi there! My name is Kris Jackson. I am a Computer Science Major and Senior at Rhodes College, and this summer will be moving to New York City to begin my journey as a Software Development Engineer in Test at Peloton Interactive. I love to code, and I spend most of my free time developing random iOS applications that come to mind. The one thing that I love most about coding is having the ability to think of an idea and actually spending time bringing that idea to life. </p> 
 
-<h4>Top Languages</h4>
+<h4>Top Programming Languages</h4>
+
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
