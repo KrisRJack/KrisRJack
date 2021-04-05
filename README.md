@@ -121,6 +121,14 @@
 	<tbody>
 		<tr>
 			<td>Netswitch LLC</td>
+			<td>Launching My First App</td>
+			<td>
+				• Worked for many months with a team of three to launch a marketplace app that we believed could bring a brand new experience to online shopping<br>
+				• While the launch of this app was one of my proudest moments, we made a lot of mistakes that resulted in lessons that I will carry with me for the rest of my life
+			</td>
+		</tr>
+		<tr>
+			<td>Netswitch LLC</td>
 			<td>Avoiding Failure Instead of Learning From It</td>
 			<td>
 				• Misled our team into believing that we needed to be invincible and prolonged our first launch as a result <br>
