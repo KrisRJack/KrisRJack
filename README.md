@@ -204,7 +204,7 @@
 
 <div align="center">
 <h2>Projects & Screenshots</h2>
-<h3>Exchange: Marketplace App</h3>
+<h3>Exchange: Marketplace App by Netswitch LLC</h3>
 	<img src="https://github.com/KrisJackson/MyProjects/blob/main/Exchange_LaunchScreen.jpg" width="250px">&#160;
 	<img src="https://github.com/KrisJackson/MyProjects/blob/main/Exchange_OpeningPage.jpg" width="250px">&#160;
 	<img src="https://github.com/KrisJackson/MyProjects/blob/main/Exchange_SignUp.jpg" width="250px">&#160;
