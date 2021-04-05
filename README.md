@@ -124,7 +124,7 @@
 			<td>Launching My First App</td>
 			<td>
 				• Worked for many months with a team of three to launch a marketplace app that we believed could bring a brand new experience to online shopping<br>
-				• While the launch of this app was one of my proudest moments, we made countless mistakes along the way. Learning from our mistakes has helped me evolve into a better developer and leader
+				• While the launch of this app was one of my proudest moments, we made countless mistakes along the way. Learning from our mistakes has shaped me into an even better developer and leader
 			</td>
 		</tr>
 		<tr>
