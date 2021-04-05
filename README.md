@@ -41,8 +41,9 @@
 ![Firebase](https://img.shields.io/badge/firebase-ffca28?style=flat-square&logo=firebase&logoColor=white)
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=heroku&logoColor=white)
 ![MySQL](ttps://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white)
-<br>
  </div>
+
+<br>
 
 <h2>Experience</h2>
 <div align="center">
@@ -104,9 +105,10 @@
 </table>
 </div>
 
+<br>
 
-<h2>Struggles I Learned From</h2>
 <div align="center">
+<h2>Struggles I Learned From</h2>
 <table>
 	<thead align="center">
 		<tr border: none;>
@@ -142,8 +144,10 @@
 </table>
 </div>
 
-<h2>Outside of Programming, I Enjoy</h2>
+<br>
+
 <div align="center">
+	<h2>Outside of Programming, I Enjoy</h2>
 	<table>
 		<thead align="center">
 			<tr border: none;>
@@ -195,10 +199,10 @@
 </table>
 </div>
 
-
-<h2>Projects & Screenshots</h2>
+<br>
 
 <div align="center">
+<h2>Projects & Screenshots</h2>
 <h3>Exchange: Marketplace App</h3>
 	<img src="https://github.com/KrisJackson/MyProjects/blob/main/Exchange_LaunchScreen.jpg" width="250px">&#160;
 	<img src="https://github.com/KrisJackson/MyProjects/blob/main/Exchange_OpeningPage.jpg" width="250px">&#160;
@@ -214,6 +218,8 @@
 	<img src="https://github.com/KrisJackson/MyProjects/blob/main/Exchange_Photos.jpg" width="250px">&#160;
 </div>
 
+<br>
+
 <div align="center">
 <h3>Social Fitness App</h3>
 	<img src="https://github.com/KrisJackson/MyProjects/blob/main/SocialFitness_LaunchScreen.jpg" width="250px">&#160;
@@ -225,6 +231,8 @@
 	<img src="https://github.com/KrisJackson/MyProjects/blob/main/SocialFitness_CreateWorkout_2.jpg" width="250px">&#160;
 	<img src="https://github.com/KrisJackson/MyProjects/blob/main/SocialFitness_CreateWorkout_3.jpg" width="250px">&#160;
 </div>
+
+<br>
 
 <div align="center">
 <h3>Facebook Resume App</h3>
