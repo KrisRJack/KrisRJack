@@ -206,16 +206,16 @@ Developed Software For:
 
 <div>
 <h3>Exchange: Marketplace App</h3>
-<img src="https://github.com/KrisJackson/MyProjects/blob/main/Exchange_LaunchScreen.jpg" width="300px">&#160;
-<img src="https://github.com/KrisJackson/MyProjects/blob/main/Exchange_OpeningPage.jpg" width="300px">&#160;
-<img src="https://github.com/KrisJackson/MyProjects/blob/main/Exchange_SignUp.jpg" width="300px">&#160;
-<img src="https://github.com/KrisJackson/MyProjects/blob/main/Exchange_LogIn.jpg" width="300px">&#160;
-<img src="https://github.com/KrisJackson/MyProjects/blob/main/Exchange_HomeScreen.jpg" width="300px">&#160;
-<img src="https://github.com/KrisJackson/MyProjects/blob/main/Exchange_Post_1.jpg" width="300px">&#160;
-<img src="https://github.com/KrisJackson/MyProjects/blob/main/Exchange_Post_2.jpg" width="300px">&#160;
-<img src="https://github.com/KrisJackson/MyProjects/blob/main/Exchange_Home_2.jpg" width="300px">&#160;
-<img src="https://github.com/KrisJackson/MyProjects/blob/main/Exchange_CreateListing.jpg" width="300px">&#160;
-<img src="https://github.com/KrisJackson/MyProjects/blob/main/Exchange_CreateListing_2.jpg" width="300px">&#160;
-<img src="https://github.com/KrisJackson/MyProjects/blob/main/Exchange_Camera.jpg" width="300px">&#160;
-<img src="https://github.com/KrisJackson/MyProjects/blob/main/Exchange_Photos.jpg" width="300px">&#160;
+<img src="https://github.com/KrisJackson/MyProjects/blob/main/Exchange_LaunchScreen.jpg" width="250px">&#160;
+<img src="https://github.com/KrisJackson/MyProjects/blob/main/Exchange_OpeningPage.jpg" width="250px">&#160;
+<img src="https://github.com/KrisJackson/MyProjects/blob/main/Exchange_SignUp.jpg" width="250px">&#160;
+<img src="https://github.com/KrisJackson/MyProjects/blob/main/Exchange_LogIn.jpg" width="250px">&#160;
+<img src="https://github.com/KrisJackson/MyProjects/blob/main/Exchange_HomeScreen.jpg" width="250px">&#160;
+<img src="https://github.com/KrisJackson/MyProjects/blob/main/Exchange_Post_1.jpg" width="250px">&#160;
+<img src="https://github.com/KrisJackson/MyProjects/blob/main/Exchange_Post_2.jpg" width="250px">&#160;
+<img src="https://github.com/KrisJackson/MyProjects/blob/main/Exchange_Home_2.jpg" width="250px">&#160;
+<img src="https://github.com/KrisJackson/MyProjects/blob/main/Exchange_CreateListing.jpg" width="250px">&#160;
+<img src="https://github.com/KrisJackson/MyProjects/blob/main/Exchange_CreateListing_2.jpg" width="250px">&#160;
+<img src="https://github.com/KrisJackson/MyProjects/blob/main/Exchange_Camera.jpg" width="250px">&#160;
+<img src="https://github.com/KrisJackson/MyProjects/blob/main/Exchange_Photos.jpg" width="250px">&#160;
 </div>
