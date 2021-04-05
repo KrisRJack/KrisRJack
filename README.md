@@ -44,8 +44,8 @@
 <br>
  </div>
 
-<div align="center">
 <h2>Experience</h2>
+<div align="center">
 <table>
   <thead align="center">
     <tr border: none;>
@@ -105,8 +105,8 @@
 </div>
 
 
-<div align="center">
 <h2>Struggles I Learned From</h2>
+<div align="center">
 <table>
 	<thead align="center">
 		<tr border: none;>
@@ -142,19 +142,18 @@
 </table>
 </div>
 
-
-<div align="center">
 <h2>Outside of Programming, I Enjoy</h2>
-<table>
-	<thead align="center">
-		<tr border: none;>
-			<td><b>Hobby</b></td>
-			<td><b>Description</b></td>
-		</tr>
-	</thead>
-	<tbody>
-		<tr>
-			<td>Pelotoning 🚴‍</td>
+<div align="center">
+	<table>
+		<thead align="center">
+			<tr border: none;>
+				<td><b>Hobby</b></td>
+				<td><b>Description</b></td>
+			</tr>
+		</thead>
+		<tbody>
+			<tr>
+				<td>Pelotoning 🚴‍</td>
 			<td>
 				I have yet to try the treadmill, but I absolutely love riding the bike 
 			</td>
@@ -195,6 +194,7 @@
 	</tbody>
 </table>
 </div>
+
 
 <h2>Projects & Screenshots</h2>
 
