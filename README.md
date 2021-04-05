@@ -45,8 +45,8 @@
 
 <br>
 
-<h2>Experience</h2>
 <div align="center">
+<h2>Experience</h2>
 <table>
   <thead align="center">
     <tr border: none;>
