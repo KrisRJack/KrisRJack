@@ -171,7 +171,7 @@
 				I have yet to try the treadmill, but I absolutely love riding the bike 
 			</td>
 		</tr>	
-			<td>Trying different coffees ☕️</td>
+			<td>Trying Different Coffees ☕️</td>
 			<td>
 				If you like coffee, I recommend joining Atlas Coffee Club
 			</td>
