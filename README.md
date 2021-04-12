@@ -197,7 +197,7 @@
 			<td>
 				I absolutley love hip-hop. My favorite artists and albums are:<br>
 				• <b>Jay-Z</b>: <i>Reasonable Doubt</i> (1996), <i>The Blueprint</i> (2001), <i>The Black Album</i> (2003) <br>
-				• <b>Kanye West</b>: <i>The College Dropout</i> (2004), <i>Late Registration</i> (2005), <i>Graduation</i> (2007), <i>My Beautiful Dark Twisted Fantasy</i> (2010) <br>
+				• <b>Kanye West</b>: <i>The College Dropout</i> (2004), <i>Late Registration</i> (2005), <i>Graduation</i> (2007), <i>808s & Heartbreak</i> (2008), <i>My Beautiful Dark Twisted Fantasy</i> (2010) <br>
 				• <b>Eminem</b>: <i>The Slim Shady LP</i> (1999), <i>The Marshall Mathers LP</i> (2000), <i>The Eminem Show</i> (2002) <br>
 				• <b>Notorious B.I.G</b>: <i>Ready to Die</i> (1994), <i>Life After Death</i> (1997) <br>
 				• <b>Kendrick Lamar</b>: <i>Section.80</i> (2011), <i>Good Kid, M.A.A.D City</i> (2012), <i>To Pimp a Butterfly</i> (2015) <br>
