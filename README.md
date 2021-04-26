@@ -101,6 +101,15 @@
           • Used tools in Google Cloud to sync the mobile app to their innovative facial recognition hardware
       </td>
     </tr>
+	  <tr>
+	    <td><b>Machine Learning Research Assistant</b></td>
+      <td>The University of Tennessee Health Science Center</td>
+      <td>May 2018</td>
+      <td>July 2018</td>
+      <td>• Assisted in the development of an artificially intelligent system that forecasts organ failure in sickle cell patients <br>
+	  • Notifies the nurses hours before the incident occurs
+      </td>
+    </tr>
     
   </tbody>
 </table>
