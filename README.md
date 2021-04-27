@@ -242,20 +242,6 @@
 <br>
 
 <div align="center">
-<h3>Social Fitness App</h3>
-	<img src="https://github.com/KrisJackson/MyProjects/blob/main/SocialFitness_LaunchScreen.jpg" width="250px">&#160;
-	<img src="https://github.com/KrisJackson/MyProjects/blob/main/SocialFitness_OpeningPage.jpg" width="250px">&#160;
-	<img src="https://github.com/KrisJackson/MyProjects/blob/main/SocialFitness_LogIn.jpg" width="250px">&#160;
-	<img src="https://github.com/KrisJackson/MyProjects/blob/main/SocialFitness_SignUp_1.jpg" width="250px">&#160;
-	<img src="https://github.com/KrisJackson/MyProjects/blob/main/SocialFitness_SignUp_2.jpg" width="250px">&#160;
-	<img src="https://github.com/KrisJackson/MyProjects/blob/main/SocialFitness_CreateWorkout_1.jpg" width="250px">&#160;
-	<img src="https://github.com/KrisJackson/MyProjects/blob/main/SocialFitness_CreateWorkout_2.jpg" width="250px">&#160;
-	<img src="https://github.com/KrisJackson/MyProjects/blob/main/SocialFitness_CreateWorkout_3.jpg" width="250px">&#160;
-</div>
-
-<br>
-
-<div align="center">
 <h3>Facebook Resume App</h3>
 	<img src="https://github.com/KrisJackson/MyProjects/blob/main/FacebookResumeApp_Home_1.jpg" width="250px">&#160;
 	<img src="https://github.com/KrisJackson/MyProjects/blob/main/FacebookResumeApp_Home_2.jpg" width="250px">&#160;
@@ -272,4 +258,18 @@
 	<img src="https://github.com/KrisJackson/MyProjects/blob/main/FacebookResumeApp_Message.jpg" width="250px">&#160;
 	<img src="https://github.com/KrisJackson/MyProjects/blob/main/FacebookResumeApp_GetInfo.jpg" width="250px">&#160;
 	<img src="https://github.com/KrisJackson/MyProjects/blob/main/FacebookResumeApp_MyInfo.jpg" width="250px">&#160;
+</div>
+
+<br>
+
+<div align="center">
+<h3>Social Fitness App</h3>
+	<img src="https://github.com/KrisJackson/MyProjects/blob/main/SocialFitness_LaunchScreen.jpg" width="250px">&#160;
+	<img src="https://github.com/KrisJackson/MyProjects/blob/main/SocialFitness_OpeningPage.jpg" width="250px">&#160;
+	<img src="https://github.com/KrisJackson/MyProjects/blob/main/SocialFitness_LogIn.jpg" width="250px">&#160;
+	<img src="https://github.com/KrisJackson/MyProjects/blob/main/SocialFitness_SignUp_1.jpg" width="250px">&#160;
+	<img src="https://github.com/KrisJackson/MyProjects/blob/main/SocialFitness_SignUp_2.jpg" width="250px">&#160;
+	<img src="https://github.com/KrisJackson/MyProjects/blob/main/SocialFitness_CreateWorkout_1.jpg" width="250px">&#160;
+	<img src="https://github.com/KrisJackson/MyProjects/blob/main/SocialFitness_CreateWorkout_2.jpg" width="250px">&#160;
+	<img src="https://github.com/KrisJackson/MyProjects/blob/main/SocialFitness_CreateWorkout_3.jpg" width="250px">&#160;
 </div>
