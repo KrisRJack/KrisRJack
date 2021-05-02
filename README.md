@@ -222,54 +222,54 @@
 <div align="center">
 <h2>Projects & Screenshots</h2>
 <h3>Exchange: Marketplace App</h3>
-	<img src="https://github.com/KrisJackson/MyProjects/blob/main/Exchange_LaunchScreen.jpg" width="250px">&#160;
-	<img src="https://github.com/KrisJackson/MyProjects/blob/main/Exchange_OpeningPage.jpg" width="250px">&#160;
-	<img src="https://github.com/KrisJackson/MyProjects/blob/main/Exchange_SignUp.jpg" width="250px">&#160;
-	<img src="https://github.com/KrisJackson/MyProjects/blob/main/Exchange_LogIn.jpg" width="250px">&#160;
-	<img src="https://github.com/KrisJackson/MyProjects/blob/main/Exchange_HomeScreen.jpg" width="250px">&#160;
-	<img src="https://github.com/KrisJackson/MyProjects/blob/main/Exchange_Post_1.jpg" width="250px">&#160;
-	<img src="https://github.com/KrisJackson/MyProjects/blob/main/Exchange_Post_2.jpg" width="250px">&#160;
-	<img src="https://github.com/KrisJackson/MyProjects/blob/main/Exchange_DirectMessaging.jpg" width="250px">&#160;
-	<img src="https://github.com/KrisJackson/MyProjects/blob/main/Exchange_Inbox.jpg" width="250px">&#160;
-	<img src="https://github.com/KrisJackson/MyProjects/blob/main/Exchange_Home_2.jpg" width="250px">&#160;
-	<img src="https://github.com/KrisJackson/MyProjects/blob/main/Exchange_Post_3.jpg" width="250px">&#160;
-	<img src="https://github.com/KrisJackson/MyProjects/blob/main/Exchange_CreateListing.jpg" width="250px">&#160;
-	<img src="https://github.com/KrisJackson/MyProjects/blob/main/Exchange_CreateListing_2.jpg" width="250px">&#160;
-	<img src="https://github.com/KrisJackson/MyProjects/blob/main/Exchange_Camera.jpg" width="250px">&#160;
-	<img src="https://github.com/KrisJackson/MyProjects/blob/main/Exchange_Photos.jpg" width="250px">&#160;
+	<img src="https://github.com/KrisRJack/MyProjects/blob/main/Exchange_LaunchScreen.jpg" width="250px">&#160;
+	<img src="https://github.com/KrisRJack/MyProjects/blob/main/Exchange_OpeningPage.jpg" width="250px">&#160;
+	<img src="https://github.com/KrisRJack/MyProjects/blob/main/Exchange_SignUp.jpg" width="250px">&#160;
+	<img src="https://github.com/KrisRJack/MyProjects/blob/main/Exchange_LogIn.jpg" width="250px">&#160;
+	<img src="https://github.com/KrisRJack/MyProjects/blob/main/Exchange_HomeScreen.jpg" width="250px">&#160;
+	<img src="https://github.com/KrisRJack/MyProjects/blob/main/Exchange_Post_1.jpg" width="250px">&#160;
+	<img src="https://github.com/KrisRJack/MyProjects/blob/main/Exchange_Post_2.jpg" width="250px">&#160;
+	<img src="https://github.com/KrisRJack/MyProjects/blob/main/Exchange_DirectMessaging.jpg" width="250px">&#160;
+	<img src="https://github.com/KrisRJack/MyProjects/blob/main/Exchange_Inbox.jpg" width="250px">&#160;
+	<img src="https://github.com/KrisRJack/MyProjects/blob/main/Exchange_Home_2.jpg" width="250px">&#160;
+	<img src="https://github.com/KrisRJack/MyProjects/blob/main/Exchange_Post_3.jpg" width="250px">&#160;
+	<img src="https://github.com/KrisRJack/MyProjects/blob/main/Exchange_CreateListing.jpg" width="250px">&#160;
+	<img src="https://github.com/KrisRJack/MyProjects/blob/main/Exchange_CreateListing_2.jpg" width="250px">&#160;
+	<img src="https://github.com/KrisRJack/MyProjects/blob/main/Exchange_Camera.jpg" width="250px">&#160;
+	<img src="https://github.com/KrisRJack/MyProjects/blob/main/Exchange_Photos.jpg" width="250px">&#160;
 </div>
 
 <br>
 
 <div align="center">
 <h3>Facebook Resume App</h3>
-	<img src="https://github.com/KrisJackson/MyProjects/blob/main/FacebookResumeApp_Home_1.jpg" width="250px">&#160;
-	<img src="https://github.com/KrisJackson/MyProjects/blob/main/FacebookResumeApp_Home_2.jpg" width="250px">&#160;
-	<img src="https://github.com/KrisJackson/MyProjects/blob/main/FacebookResumeApp_Home_3.jpg" width="250px">&#160;
-	<img src="https://github.com/KrisJackson/MyProjects/blob/main/FacebookResumeApp_Home_4.jpg" width="250px">&#160;
-	<img src="https://github.com/KrisJackson/MyProjects/blob/main/FacebookResumeApp_Jobs_1.jpg" width="250px">&#160;
-	<img src="https://github.com/KrisJackson/MyProjects/blob/main/FacebookResumeApp_Jobs_2.jpg" width="250px">&#160;
-	<img src="https://github.com/KrisJackson/MyProjects/blob/main/FacebookResumeApp_Projects.jpg" width="250px">&#160;
-	<img src="https://github.com/KrisJackson/MyProjects/blob/main/FacebookResumeApp_Skills.jpg" width="250px">&#160;
-	<img src="https://github.com/KrisJackson/MyProjects/blob/main/FacebookResumeApp_Interests_1.jpg" width="250px">&#160;
-	<img src="https://github.com/KrisJackson/MyProjects/blob/main/FacebookResumeApp_Interests_2.jpg" width="250px">&#160;
-	<img src="https://github.com/KrisJackson/MyProjects/blob/main/FacebookResumeApp_Interests_3.jpg" width="250px">&#160;
-	<img src="https://github.com/KrisJackson/MyProjects/blob/main/FacebookResumeApp_Blog.jpg" width="250px">&#160;
-	<img src="https://github.com/KrisJackson/MyProjects/blob/main/FacebookResumeApp_Message.jpg" width="250px">&#160;
-	<img src="https://github.com/KrisJackson/MyProjects/blob/main/FacebookResumeApp_GetInfo.jpg" width="250px">&#160;
-	<img src="https://github.com/KrisJackson/MyProjects/blob/main/FacebookResumeApp_MyInfo.jpg" width="250px">&#160;
+	<img src="https://github.com/KrisRJack/MyProjects/blob/main/FacebookResumeApp_Home_1.jpg" width="250px">&#160;
+	<img src="https://github.com/KrisRJack/MyProjects/blob/main/FacebookResumeApp_Home_2.jpg" width="250px">&#160;
+	<img src="https://github.com/KrisRJack/MyProjects/blob/main/FacebookResumeApp_Home_3.jpg" width="250px">&#160;
+	<img src="https://github.com/KrisRJack/MyProjects/blob/main/FacebookResumeApp_Home_4.jpg" width="250px">&#160;
+	<img src="https://github.com/KrisRJack/MyProjects/blob/main/FacebookResumeApp_Jobs_1.jpg" width="250px">&#160;
+	<img src="https://github.com/KrisRJack/MyProjects/blob/main/FacebookResumeApp_Jobs_2.jpg" width="250px">&#160;
+	<img src="https://github.com/KrisRJack/MyProjects/blob/main/FacebookResumeApp_Projects.jpg" width="250px">&#160;
+	<img src="https://github.com/KrisRJack/MyProjects/blob/main/FacebookResumeApp_Skills.jpg" width="250px">&#160;
+	<img src="https://github.com/KrisRJack/MyProjects/blob/main/FacebookResumeApp_Interests_1.jpg" width="250px">&#160;
+	<img src="https://github.com/KrisRJack/MyProjects/blob/main/FacebookResumeApp_Interests_2.jpg" width="250px">&#160;
+	<img src="https://github.com/KrisRJack/MyProjects/blob/main/FacebookResumeApp_Interests_3.jpg" width="250px">&#160;
+	<img src="https://github.com/KrisRJack/MyProjects/blob/main/FacebookResumeApp_Blog.jpg" width="250px">&#160;
+	<img src="https://github.com/KrisRJack/MyProjects/blob/main/FacebookResumeApp_Message.jpg" width="250px">&#160;
+	<img src="https://github.com/KrisRJack/MyProjects/blob/main/FacebookResumeApp_GetInfo.jpg" width="250px">&#160;
+	<img src="https://github.com/KrisRJack/MyProjects/blob/main/FacebookResumeApp_MyInfo.jpg" width="250px">&#160;
 </div>
 
 <br>
 
 <div align="center">
 <h3>Social Fitness App</h3>
-	<img src="https://github.com/KrisJackson/MyProjects/blob/main/SocialFitness_LaunchScreen.jpg" width="250px">&#160;
-	<img src="https://github.com/KrisJackson/MyProjects/blob/main/SocialFitness_OpeningPage.jpg" width="250px">&#160;
-	<img src="https://github.com/KrisJackson/MyProjects/blob/main/SocialFitness_LogIn.jpg" width="250px">&#160;
-	<img src="https://github.com/KrisJackson/MyProjects/blob/main/SocialFitness_SignUp_1.jpg" width="250px">&#160;
-	<img src="https://github.com/KrisJackson/MyProjects/blob/main/SocialFitness_SignUp_2.jpg" width="250px">&#160;
-	<img src="https://github.com/KrisJackson/MyProjects/blob/main/SocialFitness_CreateWorkout_1.jpg" width="250px">&#160;
-	<img src="https://github.com/KrisJackson/MyProjects/blob/main/SocialFitness_CreateWorkout_2.jpg" width="250px">&#160;
-	<img src="https://github.com/KrisJackson/MyProjects/blob/main/SocialFitness_CreateWorkout_3.jpg" width="250px">&#160;
+	<img src="https://github.com/KrisRJack/MyProjects/blob/main/SocialFitness_LaunchScreen.jpg" width="250px">&#160;
+	<img src="https://github.com/KrisRJack/MyProjects/blob/main/SocialFitness_OpeningPage.jpg" width="250px">&#160;
+	<img src="https://github.com/KrisRJack/MyProjects/blob/main/SocialFitness_LogIn.jpg" width="250px">&#160;
+	<img src="https://github.com/KrisRJack/MyProjects/blob/main/SocialFitness_SignUp_1.jpg" width="250px">&#160;
+	<img src="https://github.com/KrisRJack/MyProjects/blob/main/SocialFitness_SignUp_2.jpg" width="250px">&#160;
+	<img src="https://github.com/KrisRJack/MyProjects/blob/main/SocialFitness_CreateWorkout_1.jpg" width="250px">&#160;
+	<img src="https://github.com/KrisRJack/MyProjects/blob/main/SocialFitness_CreateWorkout_2.jpg" width="250px">&#160;
+	<img src="https://github.com/KrisRJack/MyProjects/blob/main/SocialFitness_CreateWorkout_3.jpg" width="250px">&#160;
 </div>
