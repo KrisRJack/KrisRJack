@@ -15,7 +15,7 @@
 [![Medium link](https://img.shields.io/badge/-medium.com/@KrisRJack-black.svg?&style=flat&logo=medium&logoColor=white)](https://krisrjack.medium.com)
 [![LinkedIn Link](https://img.shields.io/badge/linkedin/in/KrisRJack%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white")](https://www.linkedin.com/in/KrisRJack)
 [![Twitter Link](https://img.shields.io/twitter/follow/KrisRJack?color=1DA1F2&label=%40KrisRJack&logo=Twitter&style=flat)](https://twitter.com/KrisRJack)
-[![Instagram Link](https://img.shields.io/badge/follow/KrisRJack%20-%23E4405F.svg?&style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/KrisRJack/)
+[![Instagram Link](https://img.shields.io/badge/instagram.com/KrisRJack%20-%23E4405F.svg?&style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/KrisRJack/)
 [![Instagram Link](https://img.shields.io/badge/instagram.com/KrisRJack.Portfolio%20-%23E4405F.svg?&style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/KrisRJack.Portfolio/)
 
 </div>
