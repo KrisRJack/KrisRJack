@@ -278,7 +278,7 @@
 
 <div align="center">
 <h3>Drink Up: Hydration App</h3>
-<h5>*** Worked with a team that included 4 other students for a Senior Seminar project. ***</h5>
+<h5>*** Senior Seminar project with the help of four other students ***</h5>
 	<img src="https://github.com/KrisRJack/MyProjects/blob/main/DrinkUp_AnimatedHomePage.jpg" width="250px">&#160;
 	<img src="https://github.com/KrisRJack/MyProjects/blob/main/DrinkUp_Profile.jpg" width="250px">&#160;
 	<img src="https://github.com/KrisRJack/MyProjects/blob/main/DrinkUp_History.jpg" width="250px">&#160;
