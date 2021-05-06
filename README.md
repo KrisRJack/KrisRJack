@@ -10,14 +10,14 @@
 <!-------------------------------Social links--------------------------->
 
 <div align="center">
-
-[![Email Link](https://img.shields.io/badge/kristopherrjackson@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:kristopherrjackson@gmail.com)
-[![Medium link](https://img.shields.io/badge/-medium.com/@KrisRJack-black.svg?&style=flat&logo=medium&logoColor=white)](https://krisrjack.medium.com)
-[![LinkedIn Link](https://img.shields.io/badge/linkedin/in/KrisRJack%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white")](https://www.linkedin.com/in/KrisRJack)
-[![Twitter Link](https://img.shields.io/twitter/follow/KrisRJack?color=1DA1F2&label=%40KrisRJack&logo=Twitter&style=flat)](https://twitter.com/KrisRJack)
-[![Instagram Link](https://img.shields.io/badge/instagram.com/KrisRJack%20-%23E4405F.svg?&style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/KrisRJack/)
-[![Instagram Link](https://img.shields.io/badge/instagram.com/KrisRJack.Portfolio%20-%23E4405F.svg?&style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/KrisRJack.Portfolio/)
-
+	<a target="_blank" href="mailto:kristopherrjackson@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
+	<a target="_blank" href="https://www.linkedin.com/in/krisrjack"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
+	<a target="_blank" href="http://onepeloton.com/profile/krisrjack"><img src="https://img.shields.io/badge/-Peloton-181A1D?style=for-the-badge&logo=Peloton&logoColor=white"></img></a>
+	<a target="_blank" href="https://twitter.com/KrisRJack"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white">
+	</img></a>
+	<a target="_blank" href="https://instagram.com/KrisRJack"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white">
+	<a target="_blank" href="https://instagram.com/KrisRJack.Portfolio"><img src="https://img.shields.io/badge/-Instagram Portfolio-E4405F?style=for-the-badge&logo=Instagram&logoColor=white">
+</img></a>
 </div>
 
 <br>
