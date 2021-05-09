@@ -41,6 +41,7 @@
 <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white"></img>
 <img src="https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=github&logoColor=white"></img>
 <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white"></img>
+<img src="https://img.shields.io/badge/-Algolia-5468FF?style=for-the-badge&logo=Algolia&logoColor=white"></img>
 <img src="https://img.shields.io/badge/-Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"></img>
 <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"></img>
  </div>
