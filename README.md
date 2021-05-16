@@ -16,8 +16,6 @@
 	<a target="_blank" href="https://twitter.com/KrisRJack"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white">
 	</img></a>
 	<a target="_blank" href="https://instagram.com/KrisRJack"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white">
-	<a target="_blank" href="https://instagram.com/KrisRJack.Portfolio"><img src="https://img.shields.io/badge/-Instagram Portfolio-E4405F?style=for-the-badge&logo=Instagram&logoColor=white">
-</img></a>
 </div>
 
 <br>
@@ -26,7 +24,7 @@
   
   <h2>About Me</h2>
   
-  <p> Hi there! My name is Kris Jackson. I am a Computer Science Major and Senior at Rhodes College, and this summer will be moving to New York City to begin my journey as a Software Development Engineer in Test at Peloton Interactive. I love to code, and I spend most of my free time developing random iOS applications that come to mind. The one thing that I love most about coding is having the ability to think of an idea and actually spending time bringing that idea to life. </p> 
+  <p> Hi there! My name is Kris Jackson. I am a Computer Science Major and a recent graduate at Rhodes College, and this summer will be moving to New York City to begin my journey as a Software Development Engineer in Test at Peloton Interactive. I love to code, and I spend most of my free time developing random iOS applications that come to mind. The one thing that I love most about coding is having the ability to think of an idea and actually spending time bringing that idea to life. </p> 
 
 <h4>Top Programming Languages & Tools</h4>
 
