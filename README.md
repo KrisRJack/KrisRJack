@@ -24,7 +24,7 @@
   
   <h2>About Me</h2>
   
-  <p> Hi there! My name is Kris Jackson. I am a Computer Science Major and a recent graduate at Rhodes College, and this summer I will be moving to New York City to begin my journey as a Software Engineer at Peloton Interactive. I love to code, and I spend most of my free time developing random iOS applications that come to mind. The one thing that I love most about coding is having the ability to think of an idea and actually spending the time bringing that idea to life. </p> 
+  <p> Hi there! My name is Kris Jackson. I am a Computer Science Major and a recent graduate at <a href="https://www.rhodes.edu">Rhodes College</a>, and this summer I will be moving to New York City to begin my journey as a Software Engineer at Peloton Interactive. I love to code, and I spend most of my free time developing random iOS applications that come to mind. The one thing that I love most about coding is having the ability to think of an idea and actually spending the time bringing that idea to life. </p> 
 
 <h4>Top Programming Languages & Tools</h4>
 
