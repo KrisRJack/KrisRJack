@@ -226,6 +226,7 @@
 	<img src="https://github.com/KrisRJack/MyProjects/blob/main/Exchange_OpeningPage.jpg" width="250px">&#160;
 	<img src="https://github.com/KrisRJack/MyProjects/blob/main/Exchange_SignUp.jpg" width="250px">&#160;
 	<img src="https://github.com/KrisRJack/MyProjects/blob/main/Exchange_LogIn.jpg" width="250px">&#160;
+	<img src="https://github.com/KrisRJack/MyProjects/blob/main/Exchange_Home_2.jpg" width="250px">&#160;
 	<img src="https://github.com/KrisRJack/MyProjects/blob/main/Exchange_HomeScreen.jpg" width="250px">&#160;
 	<img src="https://github.com/KrisRJack/MyProjects/blob/main/Exchange_Post_1.jpg" width="250px">&#160;
 	<img src="https://github.com/KrisRJack/MyProjects/blob/main/Exchange_Post_2.jpg" width="250px">&#160;
@@ -236,8 +237,6 @@
 	<img src="https://github.com/KrisRJack/MyProjects/blob/main/Exchange_Photos.jpg" width="250px">&#160;
 	<img src="https://github.com/KrisRJack/MyProjects/blob/main/Exchange_CreateListing.jpg" width="250px">&#160;
 	<img src="https://github.com/KrisRJack/MyProjects/blob/main/Exchange_CreateListing_2.jpg" width="250px">&#160;
-	<img src="https://github.com/KrisRJack/MyProjects/blob/main/Exchange_Home_2.jpg" width="250px">&#160;
-	<img src="https://github.com/KrisRJack/MyProjects/blob/main/Exchange_Post_3.jpg" width="250px">&#160;
 </div>
 
 <br>
