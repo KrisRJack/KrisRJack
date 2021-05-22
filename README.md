@@ -221,6 +221,14 @@
 
 <div align="center">
 <h2>Projects & Screenshots</h2>
+<h3>Chatty: Messaging App</h3>
+	<img src="https://github.com/KrisRJack/MyProjects/blob/main/ChattyApp_LaunchScreen.jpg" width="250px">&#160;
+	<img src="https://github.com/KrisRJack/MyProjects/blob/main/ChattyApp_Opening.jpg" width="250px">&#160;
+</div>
+
+<br>	
+	
+<div align="center">
 <h3>Exchange: Marketplace App</h3>
 	<img src="https://github.com/KrisRJack/MyProjects/blob/main/Exchange_LaunchScreen.jpg" width="250px">&#160;
 	<img src="https://github.com/KrisRJack/MyProjects/blob/main/Exchange_OpeningPage.jpg" width="250px">&#160;
@@ -263,7 +271,7 @@
 <br>
 
 <div align="center">
-<h3>Social Fitness App</h3>
+<h3>Social: A Fitness App</h3>
 	<img src="https://github.com/KrisRJack/MyProjects/blob/main/SocialFitness_LaunchScreen.jpg" width="250px">&#160;
 	<img src="https://github.com/KrisRJack/MyProjects/blob/main/SocialFitness_OpeningPage.jpg" width="250px">&#160;
 	<img src="https://github.com/KrisRJack/MyProjects/blob/main/SocialFitness_LogIn.jpg" width="250px">&#160;
