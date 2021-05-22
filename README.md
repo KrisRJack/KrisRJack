@@ -223,7 +223,7 @@
 <h2>Projects & Screenshots</h2>
 <h3>Chatty: Messaging App</h3>
 	<img src="https://github.com/KrisRJack/MyProjects/blob/main/ChattyApp_LaunchScreen.jpg" width="250px">&#160;
-	<img src="https://github.com/KrisRJack/MyProjects/blob/main/ChattyApp_Opening.jpg" width="250px">&#160;
+	<img src="https://github.com/KrisRJack/MyProjects/blob/main/ChattyApp_OpeningPage.jpg" width="250px">&#160;
 </div>
 
 <br>	
