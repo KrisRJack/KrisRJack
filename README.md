@@ -70,7 +70,7 @@
 	    <td><b>Co-Founder & Developer</b></td>
       <td>Netswitch LLC</td>
       <td>May 2018</td>
-      <td>May 2020</td>
+      <td>May 2021</td>
       <td>• Led the development, design, and launch of a marketplace app that transformed a simple idea into lifelong lessons <br>
           • Used VIPER architectural patterns for scalability and worked with top tools such as Stripe, Heroku, MongoDB, and Google Cloud for an amazing experience</td>
     </tr>
