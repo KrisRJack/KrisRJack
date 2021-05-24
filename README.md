@@ -278,9 +278,9 @@
 
 <div align="center">
 <h3>Social: A Fitness App</h3>
-	<img src="https://github.com/KrisRJack/MyProjects/blob/main/SocialFitness_LaunchScreen.jpg" width="250px">&#160;
+<!-- 	<img src="https://github.com/KrisRJack/MyProjects/blob/main/SocialFitness_LaunchScreen.jpg" width="250px">&#160; -->
 	<img src="https://github.com/KrisRJack/MyProjects/blob/main/SocialFitness_OpeningPage.jpg" width="250px">&#160;
-	<img src="https://github.com/KrisRJack/MyProjects/blob/main/SocialFitness_LogIn.jpg" width="250px">&#160;
+<!-- 	<img src="https://github.com/KrisRJack/MyProjects/blob/main/SocialFitness_LogIn.jpg" width="250px">&#160; -->
 	<img src="https://github.com/KrisRJack/MyProjects/blob/main/SocialFitness_SignUp_1.jpg" width="250px">&#160;
 	<img src="https://github.com/KrisRJack/MyProjects/blob/main/SocialFitness_SignUp_2.jpg" width="250px">&#160;
 	<img src="https://github.com/KrisRJack/MyProjects/blob/main/SocialFitness_CreateWorkout_1.jpg" width="250px">&#160;
