@@ -141,8 +141,9 @@
 			<td>Netswitch LLC</td>
 			<td>Avoiding Failure Instead of Learning From It</td>
 			<td>
-				• Misled our team into believing that we needed to be invincible and prolonged our first launch as a result <br>
-				• As a result of trying to run from failure, our app lacked experimentation. We failed to understand what our users really wanted from our product
+				• Misled our team into believing that we needed to be perfect and prolonged our first launch as a result <br>
+				• As a result of trying to run from failure, our app lacked experimentation<br>
+				• We failed to understand what our users really wanted from our product
 			</td>
 		</tr>
 		<tr>
