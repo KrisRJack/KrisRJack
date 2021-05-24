@@ -260,9 +260,9 @@
 	<img src="https://github.com/KrisRJack/MyProjects/blob/main/FacebookResumeApp_Home_1.jpg" width="250px">&#160;
 	<img src="https://github.com/KrisRJack/MyProjects/blob/main/FacebookResumeApp_Home_2.jpg" width="250px">&#160;
 	<img src="https://github.com/KrisRJack/MyProjects/blob/main/FacebookResumeApp_Home_3.jpg" width="250px">&#160;
-	<img src="https://github.com/KrisRJack/MyProjects/blob/main/FacebookResumeApp_Home_4.jpg" width="250px">&#160;
+<!-- 	<img src="https://github.com/KrisRJack/MyProjects/blob/main/FacebookResumeApp_Home_4.jpg" width="250px">&#160; -->
 	<img src="https://github.com/KrisRJack/MyProjects/blob/main/FacebookResumeApp_Jobs_1.jpg" width="250px">&#160;
-	<img src="https://github.com/KrisRJack/MyProjects/blob/main/FacebookResumeApp_Jobs_2.jpg" width="250px">&#160;
+<!-- 	<img src="https://github.com/KrisRJack/MyProjects/blob/main/FacebookResumeApp_Jobs_2.jpg" width="250px">&#160; -->
 	<img src="https://github.com/KrisRJack/MyProjects/blob/main/FacebookResumeApp_Projects.jpg" width="250px">&#160;
 	<img src="https://github.com/KrisRJack/MyProjects/blob/main/FacebookResumeApp_Skills.jpg" width="250px">&#160;
 	<img src="https://github.com/KrisRJack/MyProjects/blob/main/FacebookResumeApp_Interests_1.jpg" width="250px">&#160;
@@ -271,7 +271,7 @@
 	<img src="https://github.com/KrisRJack/MyProjects/blob/main/FacebookResumeApp_Blog.jpg" width="250px">&#160;
 	<img src="https://github.com/KrisRJack/MyProjects/blob/main/FacebookResumeApp_Message.jpg" width="250px">&#160;
 	<img src="https://github.com/KrisRJack/MyProjects/blob/main/FacebookResumeApp_GetInfo.jpg" width="250px">&#160;
-	<img src="https://github.com/KrisRJack/MyProjects/blob/main/FacebookResumeApp_MyInfo.jpg" width="250px">&#160;
+<!-- 	<img src="https://github.com/KrisRJack/MyProjects/blob/main/FacebookResumeApp_MyInfo.jpg" width="250px">&#160; -->
 </div>
 
 <br>
