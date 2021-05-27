@@ -223,7 +223,8 @@
 
 <div align="center">
 <h2>Projects & Screenshots</h2>
-<h3>Chatty: Messaging App</h3>
+<h3><a href="http://github.com/KrisRJack/Chatty">Chatty: Messaging App</a></h3>
+<p>Current project with much cleaner code than others.</p>
 	<img src="https://github.com/KrisRJack/MyProjects/blob/main/ChattyApp_LaunchScreen.jpg" width="250px">&#160;
 	<img src="https://github.com/KrisRJack/MyProjects/blob/main/ChattyApp_Opening.jpg" width="250px">&#160;
 	<img src="https://github.com/KrisRJack/MyProjects/blob/main/ChattyApp_SignUp_1.jpg" width="250px">&#160;
@@ -258,7 +259,8 @@
 <br>
 
 <div align="center">
-<h3>Facebook Resume App</h3>
+<h3><a href="https://github.com/KrisRJack/KrisJacksonApp">Facebook Resume App</a></h3>
+<p>Forgive my messy code 😩.</p>
 	<img src="https://github.com/KrisRJack/MyProjects/blob/main/FacebookResumeApp_Home_1.jpg" width="250px">&#160;
 	<img src="https://github.com/KrisRJack/MyProjects/blob/main/FacebookResumeApp_Home_2.jpg" width="250px">&#160;
 	<img src="https://github.com/KrisRJack/MyProjects/blob/main/FacebookResumeApp_Home_3.jpg" width="250px">&#160;
@@ -294,7 +296,7 @@
 
 <div align="center">
 <h3>Drink Up: Hydration App</h3>
-<h5>*** Senior Seminar project with the help of four other students ***</h5>
+<p>*** Senior Seminar project with the help of four other students ***</p>
 	<img src="https://github.com/KrisRJack/MyProjects/blob/main/DrinkUp_AnimatedHomePage.jpg" width="250px">&#160;
 	<img src="https://github.com/KrisRJack/MyProjects/blob/main/DrinkUp_Profile.jpg" width="250px">&#160;
 	<img src="https://github.com/KrisRJack/MyProjects/blob/main/DrinkUp_History.jpg" width="250px">&#160;
