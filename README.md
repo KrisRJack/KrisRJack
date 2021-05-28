@@ -224,7 +224,7 @@
 <div align="center">
 <h2>Projects & Screenshots</h2>
 <h3><a href="http://github.com/KrisRJack/Chatty">Chatty: Messaging App</a></h3>
-	<p>Current project with a focus on writting cleaner, scalable code.</p>
+	<p>Current project with a focus on writting cleaner, reusable code.</p>
 	<img src="https://github.com/KrisRJack/MyProjects/blob/main/ChattyApp_LaunchScreen.jpg" width="250px">&#160;
 	<img src="https://github.com/KrisRJack/MyProjects/blob/main/ChattyApp_Opening.jpg" width="250px">&#160;
 	<img src="https://github.com/KrisRJack/MyProjects/blob/main/ChattyApp_SignUp_1.jpg" width="250px">&#160;
