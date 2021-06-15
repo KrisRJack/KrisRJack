@@ -233,6 +233,8 @@
 	<img src="https://github.com/KrisRJack/MyProjects/blob/main/ChattyApp_CustomErrorAlert.jpg" width="250px">&#160; 
 	<img src="https://github.com/KrisRJack/MyProjects/blob/main/ChattyApp_Verify.jpg" width="250px">&#160; 
 	<img src="https://github.com/KrisRJack/MyProjects/blob/main/ChattyApp_GetProfile.jpg" width="250px">&#160; 
+	<img src="https://github.com/KrisRJack/MyProjects/blob/main/ChattyApp_Profile.jpg" width="250px">&#160; 
+	<img src="https://github.com/KrisRJack/MyProjects/blob/main/ChattyApp_Profile_2.jpg" width="250px">&#160; 
 </div>
 
 <br>	
