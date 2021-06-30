@@ -227,6 +227,7 @@
 	<p>Current project with a focus on writting cleaner, reusable code. In early development stage. <i>Check back here for more updates to come.</i></p>
 	<img src="https://github.com/KrisRJack/MyProjects/blob/main/ChattyApp_LaunchScreen.jpg" width="250px">&#160;
 	<img src="https://github.com/KrisRJack/MyProjects/blob/main/ChattyApp_Opening.jpg" width="250px">&#160;
+	<img src="https://github.com/KrisRJack/MyProjects/blob/main/ChattyApp_Opening_Dark.jpg" width="250px">&#160;
 	<img src="https://github.com/KrisRJack/MyProjects/blob/main/ChattyApp_SignUp_1.jpg" width="250px">&#160;
 	<img src="https://github.com/KrisRJack/MyProjects/blob/main/ChattyApp_SignUp_2.jpg" width="250px">&#160;
 	<img src="https://github.com/KrisRJack/MyProjects/blob/main/ChattyApp_LogIn.jpg" width="250px">&#160;
