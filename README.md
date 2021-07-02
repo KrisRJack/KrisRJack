@@ -299,7 +299,7 @@
 
 <br>
 
-<div align="center">
+<!-- <div align="center">
 <h3>Drink Up: Hydration App</h3>
 <p>*** Senior Seminar project with the help of four other students ***</p>
 	<img src="https://github.com/KrisRJack/MyProjects/blob/main/DrinkUp_AnimatedHomePage.jpg" width="250px">&#160;
@@ -307,4 +307,4 @@
 	<img src="https://github.com/KrisRJack/MyProjects/blob/main/DrinkUp_History.jpg" width="250px">&#160;
 	<img src="https://github.com/KrisRJack/MyProjects/blob/main/DrinkUp_AddAmount_0.jpg" width="250px">&#160;
 	<img src="https://github.com/KrisRJack/MyProjects/blob/main/DrinkUp_AddAmount_1.jpg" width="250px">&#160;
-</div>
+</div> -->
