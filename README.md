@@ -231,8 +231,8 @@
 	<img src="https://github.com/KrisRJack/MyProjects/blob/main/Chatty_Code.jpg" width="250px">&#160;
 	<img src="https://github.com/KrisRJack/MyProjects/blob/main/Chatty_Code_Dark.jpg" width="250px">&#160;
 	<img src="https://github.com/KrisRJack/MyProjects/blob/main/Chatty_Settings_Profile.jpg" width="250px">&#160; 
-	<img src="https://github.com/KrisRJack/MyProjects/blob/main/Chatty_Settings_Profile_Dark.jpg" width="250px">&#160;
 	<img src="https://github.com/KrisRJack/MyProjects/blob/main/Chatty_Settings_Profile_2.jpg" width="250px">&#160; 
+	<img src="https://github.com/KrisRJack/MyProjects/blob/main/Chatty_Settings_Profile_Dark.jpg" width="250px">&#160;
 	<img src="https://github.com/KrisRJack/MyProjects/blob/main/Chatty_Settings_Profile_Dark_2.jpg" width="250px">&#160;
 	<img src="https://github.com/KrisRJack/MyProjects/blob/main/Chatty_Scan.jpg" width="250px">&#160; 
 	<img src="https://github.com/KrisRJack/MyProjects/blob/main/Chatty_Scan_Dark.jpg" width="250px">&#160;
