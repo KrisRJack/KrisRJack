@@ -227,11 +227,11 @@
 	<p>Current project with a focus on writting cleaner, reusable code. In early development stage. <i>Check back here for more updates to come.</i></p>
 	<img src="https://github.com/KrisRJack/MyProjects/blob/main/Chatty_LaunchScreen.jpg" width="250px">&#160;
 	<img src="https://github.com/KrisRJack/MyProjects/blob/main/Chatty_Opening.jpg" width="250px">&#160;
+	<img src="https://github.com/KrisRJack/MyProjects/blob/main/Chatty_Opening_Dark.jpg" width="250px">&#160;
 	<img src="https://github.com/KrisRJack/MyProjects/blob/main/Chatty_Code.jpg" width="250px">&#160;
 	<img src="https://github.com/KrisRJack/MyProjects/blob/main/Chatty_Settings_Profile.jpg" width="250px">&#160; 
 	<img src="https://github.com/KrisRJack/MyProjects/blob/main/Chatty_Settings_Profile_2.jpg" width="250px">&#160; 
 	<img src="https://github.com/KrisRJack/MyProjects/blob/main/Chatty_Scan.jpg" width="250px">&#160;
-	<img src="https://github.com/KrisRJack/MyProjects/blob/main/Chatty_Opening_Dark.jpg" width="250px">&#160;
 	<img src="https://github.com/KrisRJack/MyProjects/blob/main/Chatty_Code_Dark.jpg" width="250px">&#160;
 	<img src="https://github.com/KrisRJack/MyProjects/blob/main/Chatty_Settings_Profile_Dark.jpg" width="250px">&#160; 
 	<img src="https://github.com/KrisRJack/MyProjects/blob/main/Chatty_Settings_Profile_Dark_2.jpg" width="250px">&#160;
