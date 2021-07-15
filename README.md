@@ -64,7 +64,7 @@
       <td>Peloton Interactive</td>
       <td>July 2021</td>
       <td>Present</td>
-      <td>• Will be joining Peloton’s Digital Quality Assurance team and using my skills and expertise to help build upon their automation frameworks</td>
+      <td>• Will be joining Peloton’s iOS Quality Assurance and Automation team and using my skills and expertise to help build upon their automation frameworks</td>
     </tr>
     <tr>
 	    <td><b>Co-Founder & Developer</b></td>
