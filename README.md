@@ -24,7 +24,7 @@
   
   <h2>About Me</h2>
   
-  <p> Hi there! My name is Kris Jackson. I am a Computer Science Major and a recent graduate from Rhodes College, and just recently, I moved New York City to begin my journey as a Software Engineer at Peloton Interactive. I love to code, and I spend most of my free time developing random iOS applications that come to mind (see below 👀). The one thing that I love most about coding is having the ability to think of an idea and actually spending the time bringing that idea to life. </p> 
+  <p>Hi there! My name is Kris Jackson. I graduated from Rhodes College (Class of 2021) as a Computer Science Major, and I am currently living in Manhattan, NY. I currently work full-time as a Software Development Engineer in Test at Peloton Interactive, where I work to build automated tests in Swift for their iOS application. I love to code, and I spend most of my free time developing random iOS applications that come to mind (see below 👀). The one thing that I love most about coding is having the ability to think of an idea and actually spending the time bringing that idea to life.</p> 
 
 <h4>Top Programming Languages & Tools</h4>
 
@@ -64,7 +64,9 @@
       <td>Peloton Interactive</td>
       <td>July 2021</td>
       <td>Present</td>
-      <td>• Will be joining Peloton’s iOS Quality Assurance and Automation team and using my skills and expertise to help build upon their automation frameworks</td>
+      <td>• Joining Peloton’s QA and Automation team to expand upon their automated testing frameworks on iOS <br>
+	  • Working in Swift and using Apple’s XCTest library to build robust automations <br>
+	  • Using Page Object Model (POM) design patterns and techniques</td>
     </tr>
     <tr>
 	    <td><b>Co-Founder & Developer</b></td>
