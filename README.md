@@ -24,7 +24,7 @@
   
   <h2>About Me</h2>
   
-  <p>Hi there! My name is Kris Jackson. I graduated from Rhodes College (Class of 2021) as a Computer Science Major, and I am currently living in Manhattan, NY. I am working full-time as a Software Development Engineer in Test at Peloton Interactive, where I build automated tests in Swift for their iOS application. I love to code, and I spend most of my free time developing random iOS applications that come to mind (see below 👀). The one thing that I love most about coding is having the ability to think of an idea and actually spending the time bringing that idea to life.</p> 
+  <p>Hi there! My name is Kris Jackson. I graduated from Rhodes College (Class of 2021) as a Computer Science Major, and I am currently living in Manhattan, NY. Additionally, I am working full-time as a Software Development Engineer in Test at Peloton Interactive, where I build automated tests in Swift for their iOS application. I love to code, and I spend most of my free time developing random iOS applications that come to mind (see below 👀). The one thing that I love most about coding is having the ability to think of an idea and actually spending the time bringing that idea to life.</p> 
 
 <h4>Top Programming Languages & Tools</h4>
 
