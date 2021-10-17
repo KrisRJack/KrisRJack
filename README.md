@@ -226,7 +226,7 @@
 <div align="center">
 <h2>Projects & Screenshots</h2>
 <h3><a href="https://github.com/KrisRJack/Pegasus">Chatty</a></h3>
-	<p>Starting project over using RxSwift. Repo for images below can be found <a href="https://github.com/KrisRJack/Chatty">here</a>. In early development stage.</p>
+	<p>Starting project over using RxSwift. In early development stage.</p>
 	<img src="https://github.com/KrisRJack/MyProjects/blob/main/Chatty_LaunchScreen.jpg" width="250px">&#160;
 	<img src="https://github.com/KrisRJack/MyProjects/blob/main/Chatty_Opening.jpg" width="250px">&#160;
 	<img src="https://github.com/KrisRJack/MyProjects/blob/main/Chatty_Opening_Dark.jpg" width="250px">&#160;
