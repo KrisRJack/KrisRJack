@@ -270,7 +270,7 @@
 <br>
 
 <div align="center">
-<h3><a href="https://github.com/KrisRJack/KrisJacksonApp">Facebook Resume App</a></h3>
+<h3>Facebook Resume App</h3>
 	<img src="https://github.com/KrisRJack/MyProjects/blob/main/FacebookResumeApp_Home_1.jpg" width="250px">&#160;
 	<img src="https://github.com/KrisRJack/MyProjects/blob/main/FacebookResumeApp_Home_2.jpg" width="250px">&#160;
 	<img src="https://github.com/KrisRJack/MyProjects/blob/main/FacebookResumeApp_Home_3.jpg" width="250px">&#160;
