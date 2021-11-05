@@ -227,23 +227,32 @@
 <h2>Projects & Screenshots</h2>
 <h3><a href="https://github.com/KrisRJack/Pegasus">Chatty</a></h3>
 	<p>Starting project over using RxSwift. In early development stage.</p>
-	<img src="https://github.com/KrisRJack/MyProjects/blob/main/Chatty_LaunchScreen.jpg" width="250px">&#160;
-	<img src="https://github.com/KrisRJack/MyProjects/blob/main/Chatty_Opening.jpg" width="250px">&#160;
-	<img src="https://github.com/KrisRJack/MyProjects/blob/main/Chatty_Opening_Dark.jpg" width="250px">&#160;
-	<img src="https://github.com/KrisRJack/MyProjects/blob/main/Chatty_Code.jpg" width="250px">&#160;
-	<img src="https://github.com/KrisRJack/MyProjects/blob/main/Chatty_Code_Dark.jpg" width="250px">&#160;
+	<img src="https://github.com/KrisRJack/MyProjects/blob/main/Chatty-Launch.jpg" width="250px">&#160;
+	<img src="https://github.com/KrisRJack/MyProjects/blob/main/Chatty-Opening-Dark.jpg" width="250px">&#160;
+	<img src="https://github.com/KrisRJack/MyProjects/blob/main/Chatty-Opening-Light.jpg" width="250px">&#160;
+	<img src="https://github.com/KrisRJack/MyProjects/blob/main/Sign-Up-Dark.jpg" width="250px">&#160;
+	<img src="https://github.com/KrisRJack/MyProjects/blob/main/Sign-Up-Editing-Dark.jpg" width="250px">&#160;
+	<img src="https://github.com/KrisRJack/MyProjects/blob/main/Sign-Up-Light.jpg" width="250px">&#160;
+	<img src="https://github.com/KrisRJack/MyProjects/blob/main/Chatty-Create-Group-Filled-Dark.jpg" width="250px">&#160;
+	<img src="https://github.com/KrisRJack/MyProjects/blob/main/Chatty-Create-Group-Dark.jpg" width="250px">&#160;
+	<img src="https://github.com/KrisRJack/MyProjects/blob/main/Chatty-Create-Group-Filled-Light.jpg" width="250px">&#160;
+	<img src="https://github.com/KrisRJack/MyProjects/blob/main/Chatty-Create-Group-Light.jpg" width="250px">&#160;
+	<img src="https://github.com/KrisRJack/MyProjects/blob/main/Chatty-Home-Dark.jpg" width="250px">&#160;
+	<img src="https://github.com/KrisRJack/MyProjects/blob/main/Chatty-Home-Light.jpg" width="250px">&#160;
+	<!--<img src="https://github.com/KrisRJack/MyProjects/blob/main/Chatty_Settings_Profile_Dark.jpg" width="250px">&#160;
+	<img src="https://github.com/KrisRJack/MyProjects/blob/main/Chatty_Settings_Profile_Dark_2.jpg" width="250px">&#160;
 	<img src="https://github.com/KrisRJack/MyProjects/blob/main/Chatty_Settings_Profile.jpg" width="250px">&#160; 
 	<img src="https://github.com/KrisRJack/MyProjects/blob/main/Chatty_Settings_Profile_2.jpg" width="250px">&#160; 
-	<img src="https://github.com/KrisRJack/MyProjects/blob/main/Chatty_Settings_Profile_Dark.jpg" width="250px">&#160;
-	<img src="https://github.com/KrisRJack/MyProjects/blob/main/Chatty_Settings_Profile_Dark_2.jpg" width="250px">&#160;
-	<img src="https://github.com/KrisRJack/MyProjects/blob/main/Chatty_Scan.jpg" width="250px">&#160; 
+	<img src="https://github.com/KrisRJack/MyProjects/blob/main/Chatty_Code_Dark.jpg" width="250px">&#160;
+	<img src="https://github.com/KrisRJack/MyProjects/blob/main/Chatty_Code.jpg" width="250px">&#160;
 	<img src="https://github.com/KrisRJack/MyProjects/blob/main/Chatty_Scan_Dark.jpg" width="250px">&#160;
+	<img src="https://github.com/KrisRJack/MyProjects/blob/main/Chatty_Scan.jpg" width="250px">&#160; 
 	<img src="https://github.com/KrisRJack/MyProjects/blob/main/ChattyApp_SignUp_1.jpg" width="250px">&#160;
 	<img src="https://github.com/KrisRJack/MyProjects/blob/main/ChattyApp_SignUp_2.jpg" width="250px">&#160;
 	<img src="https://github.com/KrisRJack/MyProjects/blob/main/ChattyApp_LogIn.jpg" width="250px">&#160;
 	<img src="https://github.com/KrisRJack/MyProjects/blob/main/ChattyApp_CustomErrorAlert.jpg" width="250px">&#160; 
 	<img src="https://github.com/KrisRJack/MyProjects/blob/main/ChattyApp_Verify.jpg" width="250px">&#160; 
-	<img src="https://github.com/KrisRJack/MyProjects/blob/main/ChattyApp_GetProfile.jpg" width="250px">&#160;
+	<img src="https://github.com/KrisRJack/MyProjects/blob/main/ChattyApp_GetProfile.jpg" width="250px">&#160;-->
 </div>
 
 <br>	
