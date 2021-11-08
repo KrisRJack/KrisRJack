@@ -233,10 +233,10 @@
 	<img src="https://github.com/KrisRJack/MyProjects/blob/main/Sign-Up-Dark.jpg" width="250px">&#160;
 	<img src="https://github.com/KrisRJack/MyProjects/blob/main/Sign-Up-Editing-Dark.jpg" width="250px">&#160;
 	<img src="https://github.com/KrisRJack/MyProjects/blob/main/Sign-Up-Light.jpg" width="250px">&#160;
-	<img src="https://github.com/KrisRJack/MyProjects/blob/main/Chatty-Create-Group-Filled-Dark.jpg" width="250px">&#160;
-	<img src="https://github.com/KrisRJack/MyProjects/blob/main/Chatty-Create-Group-Dark.jpg" width="250px">&#160;
-	<img src="https://github.com/KrisRJack/MyProjects/blob/main/Chatty-Create-Group-Filled-Light.jpg" width="250px">&#160;
-	<img src="https://github.com/KrisRJack/MyProjects/blob/main/Chatty-Create-Group-Light.jpg" width="250px">&#160;
+	<img src="https://github.com/KrisRJack/MyProjects/blob/main/Chatty-New-Group-Filled-Dark.jpg" width="250px">&#160;
+	<img src="https://github.com/KrisRJack/MyProjects/blob/main/Chatty-New-Group-Dark.jpg" width="250px">&#160;
+	<img src="https://github.com/KrisRJack/MyProjects/blob/main/Chatty-New-Group-Filled-Light.jpg" width="250px">&#160;
+	<img src="https://github.com/KrisRJack/MyProjects/blob/main/Chatty-New-Group-Light.jpg" width="250px">&#160;
 	<img src="https://github.com/KrisRJack/MyProjects/blob/main/Chatty-Home-Dark.jpg" width="250px">&#160;
 	<img src="https://github.com/KrisRJack/MyProjects/blob/main/Chatty-Home-Light.jpg" width="250px">&#160;
 	<!--<img src="https://github.com/KrisRJack/MyProjects/blob/main/Chatty_Settings_Profile_Dark.jpg" width="250px">&#160;
