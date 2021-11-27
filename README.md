@@ -26,7 +26,7 @@
   
   <p>Hi there! My name is Kris Jackson. I am currently based out of Manhattan, NY and working full-time as a Software Development Engineer in Test (SDET) at Peloton Interactive. I am extremely passionate for building great products and contributing to technologies that people simply cannot live without. 
 
-I have over 4 years of experience working in Swift. Experience building both static and dynamic iOS apps as well as experience contributing to open-sourced software (including Mozilla’s Firefox mobile web browser and many projects of my own ~ see below 👀).
+I have over 4 years of experience working in Swift. Experience building both static and dynamic iOS apps as well as experience contributing to open-sourced software (including Mozilla’s Firefox mobile web browser and many projects of my own ~ see below 👀). In addition to Swift and iOS development, I have additional experience in Web Development using HTML/CSS/JS/PHP, Networking and Systems Programming in C/C++, Python, and limited experience in Rust. 
 
 At Peloton, I spend my days building robust automations and adding to their automated test suite. I work extensively with Swift’s XCTest framework and other various tools. Our team’s role is to ensure that the Peloton app is reliable and that our members have a seamless experience when engaging with the product across platforms.
 
