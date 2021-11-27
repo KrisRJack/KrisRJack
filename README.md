@@ -24,7 +24,13 @@
   
   <h2>About Me</h2>
   
-  <p>Hi there! My name is Kris Jackson. I graduated from Rhodes College (Class of 2021) as a Computer Science Major, and I am currently living in Manhattan, NY. Additionally, I am working full-time as a Software Development Engineer in Test at Peloton Interactive, where I build automated tests in Swift for their iOS application. I love to code, and I spend most of my free time developing random iOS applications that come to mind (see below 👀). The one thing that I love most about coding is having the ability to think of an idea and actually spending the time bringing that idea to life.</p> 
+  <p>Hi there! My name is Kris Jackson. I am currently based out of Manhattan, NY and working full-time as a Software Development Engineer in Test (SDET) at Peloton Interactive. I am extremely passionate for building great products and contributing to technologies that people simply cannot live without. 
+
+I have over 4 years of experience working in Swift. Experience building both static and dynamic iOS apps as well as experience contributing to open-sourced software (including Mozilla’s Firefox mobile web browser and many projects of my own ~ see below 👀).
+
+At Peloton, I spend my days building robust automations and adding to their automated test suite. I work extensively with Swift’s XCTest framework and other various tools. Our team’s role is to ensure that the Peloton app is reliable and that our members have a seamless experience when engaging with the product across platforms.
+
+When I’m not working, you will most likely catch me on the [Peloton leaderboard](https://www.peloton.krisrjack.com).</p> 
 
 <h4>Top Programming Languages & Tools</h4>
 
