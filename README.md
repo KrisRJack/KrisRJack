@@ -307,7 +307,7 @@ When I’m not working, you will most likely catch me on the [Peloton Leaderboar
 <br>
 
 <div align="center">
-<h3>Social: A Fitness App</h3>
+<h3>Social Fitness App</h3>
 <!-- 	<img src="https://github.com/KrisRJack/MyProjects/blob/main/SocialFitness_LaunchScreen.jpg" width="250px">&#160; -->
 	<img src="https://github.com/KrisRJack/MyProjects/blob/main/SocialFitness_OpeningPage.jpg" width="250px">&#160;
 <!-- 	<img src="https://github.com/KrisRJack/MyProjects/blob/main/SocialFitness_LogIn.jpg" width="250px">&#160; -->
