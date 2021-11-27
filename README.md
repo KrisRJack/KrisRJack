@@ -30,7 +30,7 @@ I have over 4 years of experience working in Swift. Experience building both sta
 
 At Peloton, I spend my days building robust automations and adding to their automated test suite. I work extensively with Swift’s XCTest framework and other various tools. Our team’s role is to ensure that the Peloton app is reliable and that our members have a seamless experience when engaging with the product across platforms.
 
-When I’m not working, you will most likely catch me on the [Peloton leaderboard](https://www.peloton.krisrjack.com).</p> 
+When I’m not working, you will most likely catch me on the [Peloton Leaderboard ~ @KrisRJack](https://www.peloton.krisrjack.com).</p> 
 
 <h4>Top Programming Languages & Tools</h4>
 
