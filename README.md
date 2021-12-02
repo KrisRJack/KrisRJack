@@ -126,55 +126,6 @@ When I’m not working, you will most likely catch me on the [Peloton Leaderboar
 <br>
 
 <div align="center">
-<h2>Struggles I Learned From</h2>
-<table>
-	<thead align="center">
-		<tr border: none;>
-			<td><b>Company</b></td>
-			<td><b>TL;DR</b></td>
-			<td><b>Description</b></td>
-		</tr>
-	</thead>
-	<tbody>
-		<tr>
-			<td>Netswitch LLC</td>
-			<td>Launching My First App</td>
-			<td>
-				• Worked for many months with a team of three to launch a marketplace app that we believed could bring a brand new experience to online shopping<br>
-				• While the launch of this app was one of my proudest moments, we made countless mistakes along the way<br>
-				• Learning from our mistakes has shaped me into a better developer and leader
-			</td>
-		</tr>
-		<tr>
-			<td>Netswitch LLC</td>
-			<td>Avoiding Failure Instead of Learning From It</td>
-			<td>
-				• Misled our team into believing that we needed to be perfect and prolonged our first launch as a result <br>
-				• As a result of trying to run from failure, our app lacked experimentation<br>
-				• We failed to understand what our users really wanted from our product
-			</td>
-		</tr>
-		<tr>
-			<td>Netswitch LLC</td>
-			<td>Deploying Code Without Tests</td>
-			<td>
-				• Our team experenced weeks of sleep deprivation and anxiety while attempting to perfect an app with many users and not a single test 
-			</td>
-		</tr>
-		<tr>
-			<td>Netswitch LLC</td>
-			<td>Allowing Emotion Overpower Strategy</td>
-			<td>
-				• We had a great strategy planned for our initial launch, but eagerness and impatience caused us to launch a product that was not ready 
-			</td>
-		</tr>
-	</tbody>
-</table>
-</div>
-
-<br>
-
-<div align="center">
 	<h2>Outside of Coding, I Enjoy</h2>
 	<table>
 		<thead align="center">
