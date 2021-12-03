@@ -160,7 +160,8 @@ When I’m not working, you will most likely catch me on the [Peloton Leaderboar
 				• <i>Pivot</i> by New York Magazine<br>
 				• <i>The Vergecast</i> by the Verge<br>
 				• <i>Decoder with Nilay Patel</i> by the Verge<br>
-				• <i>Sway</i> by New York Times Opinion<br>
+				• <i>This Week in Startups</i> by Jason Calacanis<br>
+				• <i>All-In</i> by Jason Calacanis, Chamath Palihapitiya, David Sacks, David Friedberg<br>
 			</td>
 		</tr>
 			<td>Listening to Music 🎧</td>
@@ -184,7 +185,7 @@ When I’m not working, you will most likely catch me on the [Peloton Leaderboar
 <div align="center">
 <h2>Projects & Screenshots</h2>
 <h3><a href="https://github.com/KrisRJack/Pegasus">Chatty</a></h3>
-	<p>Starting project over using RxSwift. In early development stage.</p>
+	<p>Starting project over using RxSwift. In early development.</p>
 	<img src="https://github.com/KrisRJack/MyProjects/blob/main/Chatty-Launch.jpg" width="250px">&#160;
 	<img src="https://github.com/KrisRJack/MyProjects/blob/main/Chatty-Opening-Dark.jpg" width="250px">&#160;
 	<img src="https://github.com/KrisRJack/MyProjects/blob/main/Chatty-Opening-Light.jpg" width="250px">&#160;
@@ -271,7 +272,7 @@ When I’m not working, you will most likely catch me on the [Peloton Leaderboar
 
 <br>
 
-<!-- <div align="center">
+<div align="center">
 <h3>Drink Up: Hydration App</h3>
 <p>*** Senior Seminar project with the help of four other students ***</p>
 	<img src="https://github.com/KrisRJack/MyProjects/blob/main/DrinkUp_AnimatedHomePage.jpg" width="250px">&#160;
@@ -279,4 +280,4 @@ When I’m not working, you will most likely catch me on the [Peloton Leaderboar
 	<img src="https://github.com/KrisRJack/MyProjects/blob/main/DrinkUp_History.jpg" width="250px">&#160;
 	<img src="https://github.com/KrisRJack/MyProjects/blob/main/DrinkUp_AddAmount_0.jpg" width="250px">&#160;
 	<img src="https://github.com/KrisRJack/MyProjects/blob/main/DrinkUp_AddAmount_1.jpg" width="250px">&#160;
-</div> -->
+</div> 
