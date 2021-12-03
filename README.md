@@ -64,17 +64,27 @@ When I’m not working, you will most likely catch me on the [Peloton Leaderboar
       <td><b>Description</b></td>
     </tr>
   </thead>
+	
   <tbody>
     <tr>
 	    <td><b>Software Development Engineer in Test</b></td>
-      <td>Peloton Interactive</td>
-      <td>July 2021</td>
-      <td>Present</td>
-      <td>• Joining Peloton’s QA and Automation team to expand upon their automated testing frameworks on iOS <br>
-	  • Working in Swift and using Apple’s XCTest library to build robust automations <br>
-	  • Using Page Object Model (POM) design patterns and techniques</td>
-    </tr>
-    <tr>
+	    <td>Peloton Interactive</td>
+	    <td>July 2021</td>
+	    <td>Present</td>
+	    <td>• Joining Peloton’s QA and Automation team to expand upon their automated testing frameworks on iOS <br>
+	  	• Working in Swift and using Apple’s XCTest library to build robust automations <br>
+	  	• Using Page Object Model (POM) design patterns and techniques
+	    </td>
+	  </tr> 
+	  <tr>
+		  <td><b>Open Source Contributor</b></td>
+		  <td>Mozilla (<a href = "https://github.com/mozilla-lockwise/lockwise-ios">Lockwise</a>), Tuist (<a href = "https://github.com/tuist/XcodeProj">XcodeProj</a>)</td>
+		  <td>Jan 2020</td>
+		  <td>Present</td>
+		  <td>• Contributed to popular codebases and frameworks 
+		  </td>
+	  </tr>
+	  <tr>
 	    <td><b>Co-Founder & Developer</b></td>
       <td>Netswitch LLC</td>
       <td>May 2018</td>
@@ -89,15 +99,6 @@ When I’m not working, you will most likely catch me on the [Peloton Leaderboar
       <td>Aug 2020</td>
       <td>• Delivered a groundbreaking artificially intelligent framework that empowers a world-class sales team and will drive future sales predictions to new heights <br>
           • Worked with state-of-the-art tools such as distributed asynchronous hyper-parameter optimization and machine learning lifecycle management APIs
-      </td>
-    </tr>
-    <tr>
-	    <td><b>Open Source Contributor</b></td>
-      <td>Mozilla Firefox</td>
-      <td>Jan 2020</td>
-      <td>May 2020</td>
-      <td>• Contributions merged into production to some of Firefox's most popular and complex codebases <br>
-          • Paired-programmed with Senior Software Engineers and worked with ReactiveX frameworks
       </td>
     </tr>
     <tr>
