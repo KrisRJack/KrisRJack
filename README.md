@@ -71,9 +71,8 @@ When I’m not working, you will most likely catch me on the [Peloton Leaderboar
 	    <td>Peloton Interactive</td>
 	    <td>July 2021</td>
 	    <td>Present</td>
-	    <td>• Joining Peloton’s QA and Automation team to expand upon their automated testing frameworks on iOS <br>
-	  	• Working in Swift and using Apple’s XCTest library to build robust automations <br>
-	  	• Using Page Object Model (POM) design patterns and techniques
+	    <td>• Building upon Peloton’s suite of automated tests for Apple Platforms<br>
+	  	• Utilizing Apple’s XCTest library in Swift, CircleCI, and following Page Object Model paradigms and techniques
 	    </td>
 	  </tr> 
 	  <tr>
@@ -90,15 +89,15 @@ When I’m not working, you will most likely catch me on the [Peloton Leaderboar
       <td>May 2018</td>
       <td>May 2021</td>
       <td>• Led the development, design, and launch of a marketplace app that transformed a simple idea into lifelong lessons <br>
-          • Used MVC and MVVM architectural patterns for scalability and worked with top tools such as Stripe, Heroku, MongoDB, and Google Cloud for an amazing experience</td>
+          • Worked with Stripe, Realm, Firebase, and Google Cloud SDKs</td>
     </tr>
     <tr>
 	    <td><b>Machine Learning Intern</b></td>
       <td>Dell Technologies</td>
       <td>May 2019</td>
       <td>Aug 2020</td>
-      <td>• Delivered a groundbreaking artificially intelligent framework that empowers a world-class sales team and will drive future sales predictions to new heights <br>
-          • Worked with state-of-the-art tools such as distributed asynchronous hyper-parameter optimization and machine learning lifecycle management APIs
+      <td>• Delivered an artificially intelligent framework that empowers a world-class sales team <br>
+          • Worked with state-of-the-art tools for distributed asynchronous hyper-parameter optimization and machine learning lifecycle management 
       </td>
     </tr>
     <tr>
@@ -106,8 +105,8 @@ When I’m not working, you will most likely catch me on the [Peloton Leaderboar
       <td>Moment AI</td>
       <td>May 2019</td>
       <td>Sep 2019</td>
-      <td>• Contracted to develop a mobile app for one of Memphis's most revolutionary artificial intelligence start-ups <br>
-          • Used tools in Google Cloud to sync the mobile app to their innovative facial recognition hardware
+      <td>• Contracted to develop a mobile app for a Memphis-based artificial intelligence startup <br>
+          • Worked with Swift and Firebase to develop an app that synced with their hardware to deliver real-time updates to users’ mobile phone
       </td>
     </tr>
 	  <tr>
@@ -115,8 +114,7 @@ When I’m not working, you will most likely catch me on the [Peloton Leaderboar
       <td>The University of Tennessee Health Science Center</td>
       <td>May 2018</td>
       <td>July 2018</td>
-      <td>• Assisted in the development of an artificially intelligent system that forecasts organ failure in sickle cell patients <br>
-	  • Notifies the nurses hours before the incident occurs
+      <td>• Assisted in the development of an AI system that forecasts organ failure in sickle cell patients
       </td>
     </tr>
     
