@@ -191,8 +191,8 @@ When I’m not working, you will most likely catch me on the [Peloton Leaderboar
 	<img src="https://github.com/KrisRJack/MyProjects/blob/main/Sign-Up-Dark.jpg" width="250px">&#160;
 	<img src="https://github.com/KrisRJack/MyProjects/blob/main/Sign-Up-Editing-Dark.jpg" width="250px">&#160;
 	<img src="https://github.com/KrisRJack/MyProjects/blob/main/Sign-Up-Light.jpg" width="250px">&#160;
-	<img src="https://github.com/KrisRJack/MyProjects/blob/main/Chatty Feed.jpg" width="250px">&#160;
-	<img src="https://github.com/KrisRJack/MyProjects/blob/main/Chatty Feed (Dark).jpg" width="250px">&#160;
+	<img src="https://github.com/KrisRJack/MyProjects/blob/main/Chatty-Feed.jpg" width="250px">&#160;
+	<img src="https://github.com/KrisRJack/MyProjects/blob/main/Chatty-Feed-Dark.jpg" width="250px">&#160;
 	<img src="https://github.com/KrisRJack/MyProjects/blob/main/Chatty-New-Group-Filled-Dark.jpg" width="250px">&#160;
 	<img src="https://github.com/KrisRJack/MyProjects/blob/main/Chatty-New-Group-Dark.jpg" width="250px">&#160;
 	<img src="https://github.com/KrisRJack/MyProjects/blob/main/Chatty-New-Group-Filled-Light.jpg" width="250px">&#160;
