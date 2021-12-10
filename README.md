@@ -273,6 +273,7 @@ When I’m not working, you will most likely catch me on the [Peloton Leaderboar
 
 <br>
 
+<!--
 <div align="center">
 <h3>Drink Up: Hydration App</h3>
 <p>*** Senior Seminar project with the help of four other students ***</p>
@@ -282,3 +283,5 @@ When I’m not working, you will most likely catch me on the [Peloton Leaderboar
 	<img src="https://github.com/KrisRJack/MyProjects/blob/main/DrinkUp_AddAmount_0.jpg" width="250px">&#160;
 	<img src="https://github.com/KrisRJack/MyProjects/blob/main/DrinkUp_AddAmount_1.jpg" width="250px">&#160;
 </div> 
+
+-->
