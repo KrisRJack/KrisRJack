@@ -109,14 +109,6 @@ When I’m not working, you will most likely catch me on the [Peloton Leaderboar
           • Worked with Swift and Firebase to develop an app that synced with their hardware to deliver real-time updates to users’ mobile phone
       </td>
     </tr>
-	  <tr>
-	    <td><b>Machine Learning Research Assistant</b></td>
-      <td>The University of Tennessee Health Science Center</td>
-      <td>May 2018</td>
-      <td>July 2018</td>
-      <td>• Assisted in the development of an AI system that forecasts organ failure in sickle cell patients
-      </td>
-    </tr>
     
   </tbody>
 </table>
