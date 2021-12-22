@@ -176,7 +176,6 @@ When I’m not working, you will most likely catch me on the [Peloton Leaderboar
 <div align="center">
 <h2>Projects & Screenshots</h2>
 <h3><a href="https://github.com/KrisRJack/Pegasus">Chatty</a></h3>
-	<p>Starting project over using RxSwift. In early development.</p>
 	<img src="https://github.com/KrisRJack/MyProjects/blob/main/Chatty-Launch.jpg" width="250px">&#160;
 	<img src="https://github.com/KrisRJack/MyProjects/blob/main/Chatty-Opening-Dark.jpg" width="250px">&#160;
 	<img src="https://github.com/KrisRJack/MyProjects/blob/main/Chatty-Opening-Light.jpg" width="250px">&#160;
