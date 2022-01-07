@@ -77,7 +77,7 @@ When I’m not working, you will most likely catch me on the [Peloton Leaderboar
 	  </tr> 
 	  <tr>
 		  <td><b>Open Source Contributor</b></td>
-		  <td>Mozilla (<a href = "https://github.com/mozilla-lockwise/lockwise-ios">Lockwise</a>), Tuist (<a href = "https://github.com/tuist/XcodeProj">XcodeProj</a>)</td>
+		  <td>Mozilla (<a href = "https://github.com/mozilla-lockwise/lockwise-ios">Lockwise</a>), Tuist (<a href = "https://github.com/tuist/XcodeProj">XcodeProj</a>), <a href = "https://github.com/yonaskolb/XcodeGen/issues/1150">XcodeGen</a></td>
 		  <td>Jan 2020</td>
 		  <td>Present</td>
 		  <td>• Contributed to popular codebases and frameworks 
