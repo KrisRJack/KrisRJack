@@ -65,7 +65,7 @@ When I’m not working, you will most likely catch me on the [Peloton Leaderboar
     </tr>
   </thead>
 	
-  <tbody>
+  <tbody align="left">
     <tr>
 	    <td><b>Software Development Engineer in Test</b></td>
 	    <td>Peloton Interactive</td>
@@ -125,7 +125,7 @@ When I’m not working, you will most likely catch me on the [Peloton Leaderboar
 				<td><b>Description</b></td>
 			</tr>
 		</thead>
-		<tbody>
+		<tbody align="left">
 			<tr>
 				<td>Pelotoning 🚴‍</td>
 			<td>
@@ -169,7 +169,6 @@ When I’m not working, you will most likely catch me on the [Peloton Leaderboar
 		</tr>
 	</tbody>
 </table>
-</div>
 
 <br>
 
@@ -223,3 +222,7 @@ When I’m not working, you will most likely catch me on the [Peloton Leaderboar
 	<img src="https://github.com/KrisRJack/MyProjects/blob/main/Exchange_CreateListing.jpg" width="250px">&#160;
 	<img src="https://github.com/KrisRJack/MyProjects/blob/main/Exchange_CreateListing_2.jpg" width="250px">&#160;
 </div>
+
+</div>
+
+
