@@ -175,41 +175,39 @@ When I’m not working, you will most likely catch me on the [Peloton Leaderboar
 
 <div align="center">
 <h2>Projects & Screenshots</h2>
-<h3><a href="https://github.com/KrisRJack/Pegasus">Chatty</a></h3>
-	<img src="https://github.com/KrisRJack/MyProjects/blob/main/Chatty-Launch.jpg" width="250px">&#160;
-	<img src="https://github.com/KrisRJack/MyProjects/blob/main/Chatty-Opening-Dark.jpg" width="250px">&#160;
-	<img src="https://github.com/KrisRJack/MyProjects/blob/main/Chatty-Opening-Light.jpg" width="250px">&#160;
-	<img src="https://github.com/KrisRJack/MyProjects/blob/main/Sign-Up-Dark.jpg" width="250px">&#160;
-	<img src="https://github.com/KrisRJack/MyProjects/blob/main/Sign-Up-Editing-Dark.jpg" width="250px">&#160;
-	<img src="https://github.com/KrisRJack/MyProjects/blob/main/Sign-Up-Light.jpg" width="250px">&#160;
-	<img src="https://github.com/KrisRJack/MyProjects/blob/main/Chatty-Feed.jpg" width="250px">&#160;
-	<img src="https://github.com/KrisRJack/MyProjects/blob/main/Chatty-Feed-Dark.jpg" width="250px">&#160;
-	<img src="https://github.com/KrisRJack/MyProjects/blob/main/Chatty-New-Group-Filled-Dark.jpg" width="250px">&#160;
-	<img src="https://github.com/KrisRJack/MyProjects/blob/main/Chatty-New-Group-Dark.jpg" width="250px">&#160;
-	<img src="https://github.com/KrisRJack/MyProjects/blob/main/Chatty-New-Group-Filled-Light.jpg" width="250px">&#160;
-	<img src="https://github.com/KrisRJack/MyProjects/blob/main/Chatty-New-Group-Light.jpg" width="250px">&#160;
-	<img src="https://github.com/KrisRJack/MyProjects/blob/main/Chatty-Home-Dark.jpg" width="250px">&#160;
-	<img src="https://github.com/KrisRJack/MyProjects/blob/main/Chatty-Home-Light.jpg" width="250px">&#160;
-	<img src="https://github.com/KrisRJack/MyProjects/blob/main/Chatty_Settings_Profile_Dark.jpg" width="250px">&#160;
-	<img src="https://github.com/KrisRJack/MyProjects/blob/main/Chatty_Settings_Profile.jpg" width="250px">&#160; 
-	<img src="https://github.com/KrisRJack/MyProjects/blob/main/Chatty_Settings_Profile_Dark_2.jpg" width="250px">&#160;
-	<img src="https://github.com/KrisRJack/MyProjects/blob/main/Chatty_Settings_Profile_2.jpg" width="250px">&#160; 
-	<!--<img src="https://github.com/KrisRJack/MyProjects/blob/main/Chatty_Code_Dark.jpg" width="250px">&#160;
-	<img src="https://github.com/KrisRJack/MyProjects/blob/main/Chatty_Code.jpg" width="250px">&#160;
-	<img src="https://github.com/KrisRJack/MyProjects/blob/main/Chatty_Scan_Dark.jpg" width="250px">&#160;
-	<img src="https://github.com/KrisRJack/MyProjects/blob/main/Chatty_Scan.jpg" width="250px">&#160; 
-	<img src="https://github.com/KrisRJack/MyProjects/blob/main/ChattyApp_SignUp_1.jpg" width="250px">&#160;
-	<img src="https://github.com/KrisRJack/MyProjects/blob/main/ChattyApp_SignUp_2.jpg" width="250px">&#160;
-	<img src="https://github.com/KrisRJack/MyProjects/blob/main/ChattyApp_LogIn.jpg" width="250px">&#160;
-	<img src="https://github.com/KrisRJack/MyProjects/blob/main/ChattyApp_CustomErrorAlert.jpg" width="250px">&#160; 
-	<img src="https://github.com/KrisRJack/MyProjects/blob/main/ChattyApp_Verify.jpg" width="250px">&#160; 
-	<img src="https://github.com/KrisRJack/MyProjects/blob/main/ChattyApp_GetProfile.jpg" width="250px">&#160;-->
+<h3><a href="https://github.com/KrisRJack/Prometheus">Chatty</a></h3>
+<p>Current Side-Project: For more projects that I've worked on visit <a href="https://www.krisrjack.com">krisrjack.com</a></p>	
+<img src="https://github.com/KrisRJack/Prometheus/blob/main/Screenshots/launch.light.jpg" width="250px">&#160;
+<img src="https://github.com/KrisRJack/Prometheus/blob/main/Screenshots/feed.light.jpg" width="250px">&#160;
+<img src="https://github.com/KrisRJack/Prometheus/blob/main/Screenshots/compose.light.jpg" width="250px">&#160;
+<img src="https://github.com/KrisRJack/Prometheus/blob/main/Screenshots/compose.post.light.jpg" width="250px">&#160;
+<img src="https://github.com/KrisRJack/Prometheus/blob/main/Screenshots/compose.post.repost.light.jpg" width="250px">&#160;
+<img src="https://github.com/KrisRJack/Prometheus/blob/main/Screenshots/about.group.light.jpg" width="250px">&#160;
+<img src="https://github.com/KrisRJack/Prometheus/blob/main/Screenshots/about.group.2.light.jpg" width="250px">&#160;
+<img src="https://github.com/KrisRJack/Prometheus/blob/main/Screenshots/my.groups.light.jpg" width="250px">&#160;
+<img src="https://github.com/KrisRJack/Prometheus/blob/main/Screenshots/search.light.jpg" width="250px">&#160;
+<img src="https://github.com/KrisRJack/Prometheus/blob/main/Screenshots/inbox.light.jpg" width="250px">&#160;
+<img src="https://github.com/KrisRJack/Prometheus/blob/main/Screenshots/profile.light.jpg" width="250px">&#160;
+<img src="https://github.com/KrisRJack/Prometheus/blob/main/Screenshots/profile.2.light.jpg" width="250px">&#160;
+<img src="https://github.com/KrisRJack/Prometheus/blob/main/Screenshots/launch.dark.jpg" width="250px">&#160;
+<img src="https://github.com/KrisRJack/Prometheus/blob/main/Screenshots/feed.dark.jpg" width="250px">&#160;
+<img src="https://github.com/KrisRJack/Prometheus/blob/main/Screenshots/compose.dark.jpg" width="250px">&#160;
+<img src="https://github.com/KrisRJack/Prometheus/blob/main/Screenshots/compose.post.dark.jpg" width="250px">&#160;
+<img src="https://github.com/KrisRJack/Prometheus/blob/main/Screenshots/compose.post.dark.jpg" width="250px">&#160;
+<img src="https://github.com/KrisRJack/Prometheus/blob/main/Screenshots/about.group.dark.jpg" width="250px">&#160;
+<img src="https://github.com/KrisRJack/Prometheus/blob/main/Screenshots/about.group.2.dark.jpg" width="250px">&#160;
+<img src="https://github.com/KrisRJack/Prometheus/blob/main/Screenshots/my.groups.dark.jpg" width="250px">&#160;
+<img src="https://github.com/KrisRJack/Prometheus/blob/main/Screenshots/search.dark.jpg" width="250px">&#160;
+<img src="https://github.com/KrisRJack/Prometheus/blob/main/Screenshots/inbox.dark.jpg" width="250px">&#160;
+<img src="https://github.com/KrisRJack/Prometheus/blob/main/Screenshots/profile.dark.jpg" width="250px">&#160;
+<img src="https://github.com/KrisRJack/Prometheus/blob/main/Screenshots/profile.2.dark.jpg" width="250px">&#160;
 </div>
 
 <br>	
 	
 <div align="center">
 <h3>Exchange: Marketplace App</h3>
+<p></p>
 	<img src="https://github.com/KrisRJack/MyProjects/blob/main/Exchange_LaunchScreen.jpg" width="250px">&#160;
 	<img src="https://github.com/KrisRJack/MyProjects/blob/main/Exchange_OpeningPage.jpg" width="250px">&#160;
 	<img src="https://github.com/KrisRJack/MyProjects/blob/main/Exchange_SignUp.jpg" width="250px">&#160;
@@ -226,53 +224,3 @@ When I’m not working, you will most likely catch me on the [Peloton Leaderboar
 	<img src="https://github.com/KrisRJack/MyProjects/blob/main/Exchange_CreateListing.jpg" width="250px">&#160;
 	<img src="https://github.com/KrisRJack/MyProjects/blob/main/Exchange_CreateListing_2.jpg" width="250px">&#160;
 </div>
-
-<br>
-
-<div align="center">
-<h3>Facebook Resume App</h3>
-	<img src="https://github.com/KrisRJack/MyProjects/blob/main/FacebookResumeApp_Home_1.jpg" width="250px">&#160;
-	<img src="https://github.com/KrisRJack/MyProjects/blob/main/FacebookResumeApp_Home_2.jpg" width="250px">&#160;
-	<img src="https://github.com/KrisRJack/MyProjects/blob/main/FacebookResumeApp_Home_3.jpg" width="250px">&#160;
-<!-- 	<img src="https://github.com/KrisRJack/MyProjects/blob/main/FacebookResumeApp_Home_4.jpg" width="250px">&#160; -->
-	<img src="https://github.com/KrisRJack/MyProjects/blob/main/FacebookResumeApp_Jobs_1.jpg" width="250px">&#160;
-<!-- 	<img src="https://github.com/KrisRJack/MyProjects/blob/main/FacebookResumeApp_Jobs_2.jpg" width="250px">&#160; -->
-	<img src="https://github.com/KrisRJack/MyProjects/blob/main/FacebookResumeApp_Projects.jpg" width="250px">&#160;
-	<img src="https://github.com/KrisRJack/MyProjects/blob/main/FacebookResumeApp_Skills.jpg" width="250px">&#160;
-	<img src="https://github.com/KrisRJack/MyProjects/blob/main/FacebookResumeApp_Interests_1.jpg" width="250px">&#160;
-	<img src="https://github.com/KrisRJack/MyProjects/blob/main/FacebookResumeApp_Interests_2.jpg" width="250px">&#160;
-	<img src="https://github.com/KrisRJack/MyProjects/blob/main/FacebookResumeApp_Interests_3.jpg" width="250px">&#160;
-	<img src="https://github.com/KrisRJack/MyProjects/blob/main/FacebookResumeApp_Blog.jpg" width="250px">&#160;
-	<img src="https://github.com/KrisRJack/MyProjects/blob/main/FacebookResumeApp_Message.jpg" width="250px">&#160;
-	<img src="https://github.com/KrisRJack/MyProjects/blob/main/FacebookResumeApp_GetInfo.jpg" width="250px">&#160;
-<!-- 	<img src="https://github.com/KrisRJack/MyProjects/blob/main/FacebookResumeApp_MyInfo.jpg" width="250px">&#160; -->
-</div>
-
-<br>
-
-<div align="center">
-<h3>Social Fitness App</h3>
-<!-- 	<img src="https://github.com/KrisRJack/MyProjects/blob/main/SocialFitness_LaunchScreen.jpg" width="250px">&#160; -->
-	<img src="https://github.com/KrisRJack/MyProjects/blob/main/SocialFitness_OpeningPage.jpg" width="250px">&#160;
-<!-- 	<img src="https://github.com/KrisRJack/MyProjects/blob/main/SocialFitness_LogIn.jpg" width="250px">&#160; -->
-	<img src="https://github.com/KrisRJack/MyProjects/blob/main/SocialFitness_SignUp_1.jpg" width="250px">&#160;
-	<img src="https://github.com/KrisRJack/MyProjects/blob/main/SocialFitness_SignUp_2.jpg" width="250px">&#160;
-	<img src="https://github.com/KrisRJack/MyProjects/blob/main/SocialFitness_CreateWorkout_1.jpg" width="250px">&#160;
-	<img src="https://github.com/KrisRJack/MyProjects/blob/main/SocialFitness_CreateWorkout_2.jpg" width="250px">&#160;
-	<img src="https://github.com/KrisRJack/MyProjects/blob/main/SocialFitness_CreateWorkout_3.jpg" width="250px">&#160;
-</div>
-
-<br>
-
-<!--
-<div align="center">
-<h3>Drink Up: Hydration App</h3>
-<p>*** Senior Seminar project with the help of four other students ***</p>
-	<img src="https://github.com/KrisRJack/MyProjects/blob/main/DrinkUp_AnimatedHomePage.jpg" width="250px">&#160;
-	<img src="https://github.com/KrisRJack/MyProjects/blob/main/DrinkUp_Profile.jpg" width="250px">&#160;
-	<img src="https://github.com/KrisRJack/MyProjects/blob/main/DrinkUp_History.jpg" width="250px">&#160;
-	<img src="https://github.com/KrisRJack/MyProjects/blob/main/DrinkUp_AddAmount_0.jpg" width="250px">&#160;
-	<img src="https://github.com/KrisRJack/MyProjects/blob/main/DrinkUp_AddAmount_1.jpg" width="250px">&#160;
-</div> 
-
--->
