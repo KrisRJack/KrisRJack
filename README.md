@@ -186,6 +186,8 @@ When I’m not working, you will most likely catch me on the [Peloton Leaderboar
 <img src="https://github.com/KrisRJack/Prometheus/blob/main/Screenshots/compose.post.dark.jpg" width="250px">&#160;
 <img src="https://github.com/KrisRJack/Prometheus/blob/main/Screenshots/compose.post.repost.light.jpg" width="250px">&#160;
 <img src="https://github.com/KrisRJack/Prometheus/blob/main/Screenshots/compose.post.repost.dark.jpg" width="250px">&#160;
+<img src="https://github.com/KrisRJack/Prometheus/blob/main/Screenshots/compose.preview.light.jpg" width="250px">&#160;
+<img src="https://github.com/KrisRJack/Prometheus/blob/main/Screenshots/compose.preview.dark.jpg" width="250px">&#160;
 <img src="https://github.com/KrisRJack/Prometheus/blob/main/Screenshots/about.group.light.jpg" width="250px">&#160;
 <img src="https://github.com/KrisRJack/Prometheus/blob/main/Screenshots/about.group.dark.jpg" width="250px">&#160;
 <img src="https://github.com/KrisRJack/Prometheus/blob/main/Screenshots/about.group.2.light.jpg" width="250px">&#160;
