@@ -172,7 +172,7 @@ When I’m not working, you will most likely catch me on the [Peloton Leaderboar
 
 <br>
 
-<div align="center">
+<!-- <div align="center">
 <h2>Projects & Screenshots</h2>
 <h3><a href="https://github.com/KrisRJack/Prometheus">Chatty</a></h3>
 <p>Current Side-Project: For more projects that I've worked on visit <a href="https://www.krisrjack.com">krisrjack.com</a></p>	
@@ -223,7 +223,7 @@ When I’m not working, you will most likely catch me on the [Peloton Leaderboar
 	<img src="https://github.com/KrisRJack/MyProjects/blob/main/Exchange_Photos.jpg" width="250px">&#160;
 	<img src="https://github.com/KrisRJack/MyProjects/blob/main/Exchange_CreateListing.jpg" width="250px">&#160;
 	<img src="https://github.com/KrisRJack/MyProjects/blob/main/Exchange_CreateListing_2.jpg" width="250px">&#160;
-</div>
+</div> -->
 
 </div>
 
