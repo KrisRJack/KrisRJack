@@ -20,40 +20,8 @@
 
 <br>
 
-<div align="center">
-  
-  <h2>About Me</h2>
-  
-  <p>Hi there! My name is Kris Jackson. I am currently based out of Manhattan, NY and working full-time as a Software Development Engineer in Test (SDET) at Peloton Interactive. I am extremely passionate for building great products and contributing to technologies that people simply cannot live without. 
-
-I have over 4 years of experience working in Swift. Experience building both static and dynamic iOS apps as well as experience contributing to open-sourced software (including Mozilla’s Firefox mobile web browser and many projects of my own ~ see below 👀). In addition to Swift and iOS development, I have had exposure to Web Development using HTML/CSS/JS/PHP, Networking and Systems Programming in C/C++, and Machine Learning in Python. 
-
-At Peloton, I spend my days building robust automations and adding to their automated test suite. I work extensively with Swift’s XCTest framework and other various tools. Our team’s role is to ensure that the Peloton app is reliable and that our members have a seamless experience when engaging with the product across platforms.
-
-When I’m not working, you will most likely catch me on the [Peloton Leaderboard ~ @KrisRJack](https://www.peloton.krisrjack.com).</p> 
-<br>
-<h4>Top Programming Languages & Tools</h4>
-
-<img src="https://img.shields.io/badge/-Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white"></img>
-<img src="https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=white"></img>
-<img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"></img>
-<img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></img>
-<img src="https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"></img>
-<img src="https://img.shields.io/badge/-Rust-000000?style=for-the-badge&logo=rust&logoColor=white"></img>
-<img src="https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"></img>
-
-<img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white"></img>
-<img src="https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=github&logoColor=white"></img>
-<img src="https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white"></img>
-<img src="https://img.shields.io/badge/-Algolia-5468FF?style=for-the-badge&logo=Algolia&logoColor=white"></img>
-<img src="https://img.shields.io/badge/-Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"></img>
-<img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"></img>
- </div>
-
-<br>
-
-<div align="center">
-<h2>Experience</h2>
+<div align="left">
+	<h2>Resume</h2>
 <table>
   <thead align="center">
     <tr border: none;>
@@ -116,7 +84,7 @@ When I’m not working, you will most likely catch me on the [Peloton Leaderboar
 
 <br>
 
-<div align="center">
+<div align="left">
 	<h2>Outside of Coding, I Enjoy</h2>
 	<table>
 		<thead align="center">
@@ -134,7 +102,7 @@ When I’m not working, you will most likely catch me on the [Peloton Leaderboar
 		</tr>	
 			<td>Trying Different Coffees ☕️</td>
 			<td>
-				If you like coffee, I recommend joining Atlas Coffee Club
+				If you like coffee, I recommend joining <a href="https://www.drinktrade.com">Trade</a> or <a href="https://www.drinktrade.com](https://atlascoffeeclub.com)">Atlas Coffee Club</a>
 			</td>
 		</tr>
 			<td>Reading 📚</td>
@@ -169,61 +137,6 @@ When I’m not working, you will most likely catch me on the [Peloton Leaderboar
 		</tr>
 	</tbody>
 </table>
-
-<br>
-
-<!-- <div align="center">
-<h2>Projects & Screenshots</h2>
-<h3><a href="https://github.com/KrisRJack/Prometheus">Chatty</a></h3>
-<p>Current Side-Project: For more projects that I've worked on visit <a href="https://www.krisrjack.com">krisrjack.com</a></p>	
-<img src="https://github.com/KrisRJack/Prometheus/blob/main/Screenshots/launch.light.jpg" width="250px">&#160;
-<img src="https://github.com/KrisRJack/Prometheus/blob/main/Screenshots/launch.dark.jpg" width="250px">&#160;
-<img src="https://github.com/KrisRJack/Prometheus/blob/main/Screenshots/feed.light.jpg" width="250px">&#160;
-<img src="https://github.com/KrisRJack/Prometheus/blob/main/Screenshots/feed.dark.jpg" width="250px">&#160;
-<img src="https://github.com/KrisRJack/Prometheus/blob/main/Screenshots/compose.light.jpg" width="250px">&#160;
-<img src="https://github.com/KrisRJack/Prometheus/blob/main/Screenshots/compose.dark.jpg" width="250px">&#160;
-<img src="https://github.com/KrisRJack/Prometheus/blob/main/Screenshots/compose.post.light.jpg" width="250px">&#160;
-<img src="https://github.com/KrisRJack/Prometheus/blob/main/Screenshots/compose.post.dark.jpg" width="250px">&#160;
-<img src="https://github.com/KrisRJack/Prometheus/blob/main/Screenshots/compose.post.repost.light.jpg" width="250px">&#160;
-<img src="https://github.com/KrisRJack/Prometheus/blob/main/Screenshots/compose.post.repost.dark.jpg" width="250px">&#160;
-<img src="https://github.com/KrisRJack/Prometheus/blob/main/Screenshots/compose.preview.light.jpg" width="250px">&#160;
-<img src="https://github.com/KrisRJack/Prometheus/blob/main/Screenshots/compose.preview.dark.jpg" width="250px">&#160;
-<img src="https://github.com/KrisRJack/Prometheus/blob/main/Screenshots/about.group.light.jpg" width="250px">&#160;
-<img src="https://github.com/KrisRJack/Prometheus/blob/main/Screenshots/about.group.dark.jpg" width="250px">&#160;
-<img src="https://github.com/KrisRJack/Prometheus/blob/main/Screenshots/about.group.2.light.jpg" width="250px">&#160;
-<img src="https://github.com/KrisRJack/Prometheus/blob/main/Screenshots/about.group.2.dark.jpg" width="250px">&#160;
-<img src="https://github.com/KrisRJack/Prometheus/blob/main/Screenshots/my.groups.light.jpg" width="250px">&#160;
-<img src="https://github.com/KrisRJack/Prometheus/blob/main/Screenshots/my.groups.dark.jpg" width="250px">&#160;
-<img src="https://github.com/KrisRJack/Prometheus/blob/main/Screenshots/search.light.jpg" width="250px">&#160;
-<img src="https://github.com/KrisRJack/Prometheus/blob/main/Screenshots/search.dark.jpg" width="250px">&#160;
-<img src="https://github.com/KrisRJack/Prometheus/blob/main/Screenshots/inbox.light.jpg" width="250px">&#160;
-<img src="https://github.com/KrisRJack/Prometheus/blob/main/Screenshots/inbox.dark.jpg" width="250px">&#160;
-<img src="https://github.com/KrisRJack/Prometheus/blob/main/Screenshots/profile.light.jpg" width="250px">&#160;
-<img src="https://github.com/KrisRJack/Prometheus/blob/main/Screenshots/profile.dark.jpg" width="250px">&#160;
-<img src="https://github.com/KrisRJack/Prometheus/blob/main/Screenshots/profile.2.light.jpg" width="250px">&#160;
-<img src="https://github.com/KrisRJack/Prometheus/blob/main/Screenshots/profile.2.dark.jpg" width="250px">&#160;
-</div>
-
-<br>	
-	
-<div align="center">
-<h3>Exchange: Marketplace App</h3>
-	<img src="https://github.com/KrisRJack/MyProjects/blob/main/Exchange_LaunchScreen.jpg" width="250px">&#160;
-	<img src="https://github.com/KrisRJack/MyProjects/blob/main/Exchange_OpeningPage.jpg" width="250px">&#160;
-	<img src="https://github.com/KrisRJack/MyProjects/blob/main/Exchange_SignUp.jpg" width="250px">&#160;
-	<img src="https://github.com/KrisRJack/MyProjects/blob/main/Exchange_LogIn.jpg" width="250px">&#160;
-	<img src="https://github.com/KrisRJack/MyProjects/blob/main/Exchange_Home_2.jpg" width="250px">&#160;
-	<img src="https://github.com/KrisRJack/MyProjects/blob/main/Exchange_HomeScreen.jpg" width="250px">&#160;
-	<img src="https://github.com/KrisRJack/MyProjects/blob/main/Exchange_Post_1.jpg" width="250px">&#160;
-	<img src="https://github.com/KrisRJack/MyProjects/blob/main/Exchange_Post_2.jpg" width="250px">&#160;
-	<img src="https://github.com/KrisRJack/MyProjects/blob/main/Exchange_DirectMessaging.jpg" width="250px">&#160;
-	<img src="https://github.com/KrisRJack/MyProjects/blob/main/Exchange_Inbox.jpg" width="250px">&#160;
-	<img src="https://github.com/KrisRJack/MyProjects/blob/main/Exchange_Search.jpg" width="250px">&#160;
-	<img src="https://github.com/KrisRJack/MyProjects/blob/main/Exchange_Camera.jpg" width="250px">&#160;
-	<img src="https://github.com/KrisRJack/MyProjects/blob/main/Exchange_Photos.jpg" width="250px">&#160;
-	<img src="https://github.com/KrisRJack/MyProjects/blob/main/Exchange_CreateListing.jpg" width="250px">&#160;
-	<img src="https://github.com/KrisRJack/MyProjects/blob/main/Exchange_CreateListing_2.jpg" width="250px">&#160;
-</div> -->
 
 </div>
 
