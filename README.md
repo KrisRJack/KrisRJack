@@ -52,7 +52,7 @@
 		  </td>
 	  </tr>
 	  <tr>
-	    <td><b>Co-Founder & Developer</b></td>
+	    <td><b>iOS Developer</b></td>
       <td>Netswitch LLC</td>
       <td>May 2018</td>
       <td>May 2021</td>
