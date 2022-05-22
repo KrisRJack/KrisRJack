@@ -97,7 +97,7 @@
 			<tr>
 				<td>Pelotoning 🚴‍</td>
 			<td>
-				I have yet to try the treadmill, but I absolutely love riding the bike 
+				Leaderboard: <a href="https://peloton.krisrjack.com">@KrisRJack</a>
 			</td>
 		</tr>	
 			<td>Trying Different Coffees ☕️</td>
