@@ -21,7 +21,7 @@
 <br>
 
 <div align="left">
-	<h2>Resume</h2>
+	<h2>Experience</h2>
 <table>
   <thead align="center">
     <tr border: none;>
