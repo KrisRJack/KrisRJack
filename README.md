@@ -128,7 +128,7 @@
 				I'm a huge nerd when it comes to classic hip-hop. My favorite artists and albums are: <br>
 				• <b>Lauryn Hill</b>: <i>The Miseducation of Lauryn Hill</i> (1998) <br>
 				• <b>The LOX (mostly Jadakiss)</b>: <i>Money, Power & Respect</i> (1998) <br>
-				• <b>Wu-Tang Clan</b>: <i>Enter the Wu-Tang (36 Chambers)</i> (1993), <i>Only Built 4 Cuban Linx... (Purple Tape)</i> (1995) <br>
+				• <b>Wu-Tang Clan</b>: <i>Enter the Wu-Tang (36 Chambers)</i> (1993), <i>Only Built 4 Cuban Linx...</i> (1995) <br>
 				• <b>Jay-Z</b>: <i>Reasonable Doubt</i> (1996), <i>The Blueprint</i> (2001), <i>The Black Album</i> (2003) <br>
 				• <b>Eminem</b>: <i>The Slim Shady LP</i> (1999), <i>The Marshall Mathers LP</i> (2000), <i>The Eminem Show</i> (2002) <br>
 				• <b>Notorious B.I.G</b>: <i>Ready to Die</i> (1994), <i>Life After Death</i> (1997) <br>
