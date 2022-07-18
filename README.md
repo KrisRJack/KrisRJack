@@ -2,7 +2,7 @@
 
 <div align="center">
   <h1>
-    Welcome! I'm <a href="https://www.kristopherjackson.com" target="_blank">Kris</a>
+    Welcome! I'm <a href="https://www.kristopherjackson.com" target="_blank">Kris</a> 👋
   </h1>
 </div>
 
