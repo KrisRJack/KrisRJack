@@ -2,7 +2,7 @@
 
 <div align="center">
   <h1>
-    Welcome! I'm <a href="https://www.kristopherjackson.com" target="_blank">Kris</a> 👋
+    Welcome! I'm <a href="https://www.kristopherjackson.com" target="_blank">Kris</a> 👋 🏳️‍🌈
   </h1>
 </div>
 
@@ -34,11 +34,19 @@
   </thead>
 	
   <tbody align="left">
+  <tr>
+  <td><b>Software Engineer, macOS</b></td>
+	    <td>Apple</td>
+	    <td>September 2022</td>
+	    <td>Present</td>
+	    <td>• TBD
+	    </td>
+  </tr>
     <tr>
 	    <td><b>Software Development Engineer in Test</b></td>
 	    <td>Peloton Interactive</td>
 	    <td>July 2021</td>
-	    <td>Present</td>
+	    <td>August 2022</td>
 	    <td>• Building upon Peloton’s suite of automated tests for Apple Platforms<br>
 	  	• Utilizing Apple’s XCTest library in Swift, CircleCI, and following Page Object Model paradigms and techniques
 	    </td>
@@ -94,35 +102,31 @@
 			</tr>
 		</thead>
 		<tbody align="left">
-			<tr>
+		<tr>
 				<td>Pelotoning 🚴‍</td>
 			<td>
 				Leaderboard: <a href="https://peloton.krisrjack.com">@KrisRJack</a>
 			</td>
-		</tr>	
+		</tr>
+		<tr>
 			<td>Trying Different Coffees ☕️</td>
 			<td>
 				If you like coffee, I recommend joining <a href="https://www.drinktrade.com">Trade</a> or <a href="https://www.drinktrade.com](https://atlascoffeeclub.com)">Atlas Coffee Club</a>
 			</td>
 		</tr>
-			<td>Reading 📚</td>
-			<td>
-				My favorite books are:<br>
-				• <i>Steve Jobs</i> by Walter Issacson<br>
-				• <i>The Ride of a Lifetime</i> by Bob Iger<br>
-				• <i>Between the World and Me</i> by Ta-Nehisi Coates<br>
-			</td>
-		</tr>
+		<tr>
 			<td>Listening to Podcasts 🎙</td>
 			<td>
 				My favorite podcasts are:<br>
-				• <i>Pivot</i> by New York Magazine<br>
 				• <i>The Vergecast</i> by the Verge<br>
 				• <i>Decoder with Nilay Patel</i> by the Verge<br>
-				• <i>This Week in Startups</i> by Jason Calacanis<br>
-				• <i>All-In</i> by Jason Calacanis, Chamath Palihapitiya, David Sacks, David Friedberg<br>
+				• <i>Aquired</i> with Ben Gilbert, David Rosenthal<br>
+				• <i>Pivot</i> with Kara Swisher and Scott Galloway<br>
+				• <i>This Week in Startups</i> with Jason Calacanis<br>
+				• <i>All-In</i> with Jason Calacanis, Chamath Palihapitiya, David Sacks, David Friedberg<br>
 			</td>
 		</tr>
+		<tr>
 			<td>Listening to Music 🎧</td>
 			<td>
 				I'm a huge nerd when it comes to classic hip-hop. My favorite artists and albums are: <br>
